@@ -1,6 +1,7 @@
 import os
 import re
 import json
+import time
 import arxiv
 import yaml
 import logging
@@ -83,7 +84,7 @@ def get_code_link(qword:str) -> str:
         code_link = results["items"][0]["html_url"]
     return code_link
 
-def get_daily_papers(topic,query="slam", max_results=2):
+def get_daily_papers(topic, query="slam", max_results=2, client=None):
     """
     @param topic: str
     @param query: str
@@ -99,43 +100,69 @@ def get_daily_papers(topic,query="slam", max_results=2):
     )
 
     # arxiv>=2 / 4.x: Search.results() was removed; use Client.results()
-    client = arxiv.Client()
-    for result in client.results(search_engine):
+    # Reuse one polite Client so requests stay under arXiv rate limits.
+    if client is None:
+        client = arxiv.Client(
+            page_size=max_results,
+            delay_seconds=5.0,
+            num_retries=5,
+        )
 
-        paper_id            = result.get_short_id()
-        paper_title         = result.title
-        paper_url           = result.entry_id
-        paper_abstract      = result.summary.replace("\n"," ")
-        paper_authors       = get_authors(result.authors)
-        paper_first_author  = get_authors(result.authors,first_author = True)
-        primary_category    = result.primary_category
-        publish_time        = result.published.date()
-        update_time         = result.updated.date()
-        comments            = result.comment
+    # Extra retries for 429 from shared CI IPs
+    last_err = None
+    for attempt in range(5):
+        try:
+            for result in client.results(search_engine):
+                paper_id            = result.get_short_id()
+                paper_title         = result.title
+                paper_url           = result.entry_id
+                paper_abstract      = result.summary.replace("\n"," ")
+                paper_authors       = get_authors(result.authors)
+                paper_first_author  = get_authors(result.authors,first_author = True)
+                primary_category    = result.primary_category
+                publish_time        = result.published.date()
+                update_time         = result.updated.date()
+                comments            = result.comment
 
-        logging.info(f"Time = {update_time} title = {paper_title} author = {paper_first_author}")
+                logging.info(f"Time = {update_time} title = {paper_title} author = {paper_first_author}")
 
-        # eg: 2108.09112v1 -> 2108.09112
-        ver_pos = paper_id.find('v')
-        if ver_pos == -1:
-            paper_key = paper_id
-        else:
-            paper_key = paper_id[0:ver_pos]
-        paper_url = arxiv_url + 'abs/' + paper_key
+                # eg: 2108.09112v1 -> 2108.09112
+                ver_pos = paper_id.find('v')
+                if ver_pos == -1:
+                    paper_key = paper_id
+                else:
+                    paper_key = paper_id[0:ver_pos]
+                paper_url = arxiv_url + 'abs/' + paper_key
 
-        # Since PapersWithCode API is deprecated, we no longer fetch code links
-        # Papers will be listed without code links
-        content[paper_key] = "|**{}**|**{}**|{} et.al.|[{}]({})|null|\n".format(
-               update_time,paper_title,paper_first_author,paper_key,paper_url)
-        content_to_web[paper_key] = "- {}, **{}**, {} et.al., Paper: [{}]({})".format(
-               update_time,paper_title,paper_first_author,paper_url,paper_url)
+                # Since PapersWithCode API is deprecated, we no longer fetch code links
+                # Papers will be listed without code links
+                content[paper_key] = "|**{}**|**{}**|{} et.al.|[{}]({})|null|\n".format(
+                       update_time,paper_title,paper_first_author,paper_key,paper_url)
+                content_to_web[paper_key] = "- {}, **{}**, {} et.al., Paper: [{}]({})".format(
+                       update_time,paper_title,paper_first_author,paper_url,paper_url)
 
-        # TODO: select useful comments
-        comments = None
-        if comments != None:
-            content_to_web[paper_key] += f", {comments}\n"
-        else:
-            content_to_web[paper_key] += f"\n"
+                # TODO: select useful comments
+                comments = None
+                if comments != None:
+                    content_to_web[paper_key] += f", {comments}\n"
+                else:
+                    content_to_web[paper_key] += f"\n"
+            break
+        except arxiv.HTTPError as err:
+            last_err = err
+            status = getattr(err, 'status', None)
+            if status != 429 or attempt == 4:
+                raise
+            wait_s = 30 * (attempt + 1)
+            logging.warning(
+                f"arXiv rate limited (429) for topic={topic} "
+                f"attempt={attempt+1}/5; sleep {wait_s}s then retry"
+            )
+            time.sleep(wait_s)
+            content.clear()
+            content_to_web.clear()
+    else:
+        raise last_err
 
     data = {topic:content}
     data_web = {topic:content_to_web}
@@ -351,12 +378,24 @@ def demo(**config):
     logging.info(f'Update Paper Link = {b_update}')
     if config['update_paper_links'] == False:
         logging.info(f"GET daily papers begin")
+        # Shared client: page_size matches need; delay helps avoid HTTP 429
+        client = arxiv.Client(
+            page_size=max_results,
+            delay_seconds=5.0,
+            num_retries=5,
+        )
         for topic, keyword in keywords.items():
             logging.info(f"Keyword: {topic}")
-            data, data_web = get_daily_papers(topic, query = keyword,
-                                            max_results = max_results)
+            data, data_web = get_daily_papers(
+                topic,
+                query=keyword,
+                max_results=max_results,
+                client=client,
+            )
             data_collector.append(data)
             data_collector_web.append(data_web)
+            # Pause between keyword queries (GitHub Actions shares egress IPs)
+            time.sleep(5)
             print("\n")
         logging.info(f"GET daily papers end")
 
