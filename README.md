@@ -1,4 +1,4 @@
-## Updated on 2026.10.13
+## Updated on 2026.10.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -17,6 +17,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-13**|**RTISSLAM: In-air Imaging Sonar SLAM using a Robust Pose Graph and Occupancy Grid Mapping**|Jan Steckel et.al.|[2610.18479](http://arxiv.org/abs/2610.18479)|null|
+|**2026-10-13**|**Autonomous 3D Visual-Thermal Inspection for Utility-Scale Solar Farms**|Lachlan Tychsen-Smith et.al.|[2610.17762](http://arxiv.org/abs/2610.17762)|null|
+|**2026-10-13**|**Gaussian Splatting for Real-Time Scene Reconstruction: Methods, Systems, and Trade-offs**|Ashim Dahal et.al.|[2610.17513](http://arxiv.org/abs/2610.17513)|null|
+|**2026-10-12**|**Physical SLAM: Physics-aware Simultaneous Localisation and Mapping**|Guangming Wang et.al.|[2610.17260](http://arxiv.org/abs/2610.17260)|null|
+|**2026-10-12**|**Dense Endoluminal Mapping and Localisation from Monocular Bronchoscopy**|Salvatore Esposito et.al.|[2610.16570](http://arxiv.org/abs/2610.16570)|null|
+|**2026-10-12**|**All-St3R SLAM: Real-time RGB Dynamic SLAM with Pixel-wise Motion Masking**|Yewon Kim et.al.|[2610.16143](http://arxiv.org/abs/2610.16143)|null|
+|**2026-10-10**|**RootSLAM: Square Root Bundle Adjustment for Visual-Inertial SLAM**|Tomás Santucci et.al.|[2610.15157](http://arxiv.org/abs/2610.15157)|null|
+|**2026-10-10**|**FoundationVIO: Enforcing Metric Scale in Feed-forward Visual-Inertial Odometry**|Jin Rhee et.al.|[2610.14951](http://arxiv.org/abs/2610.14951)|null|
 |**2026-10-08**|**MemReg: Streaming Outdoor LiDAR Point Cloud Registration with Hybrid Memory Buffers**|Jiuming Liu et.al.|[2610.12624](http://arxiv.org/abs/2610.12624)|null|
 |**2026-10-08**|**RAGNAROK: Radar-Aided Gravity-Normalized Alignment for Robust Open Keyframe-based Radar-Visual-Kinematic-Inertial SLAM**|Hanjun Kim et.al.|[2610.11531](http://arxiv.org/abs/2610.11531)|null|
 |**2026-10-07**|**Argos: Adapt Rich Geometric Priors for Generalizable Online Scene-Change-Detection**|Ruihan Xu et.al.|[2610.10181](http://arxiv.org/abs/2610.10181)|null|
@@ -1450,12 +1458,14 @@
 |**2021-10-03**|**Quadrotor Control on $SU(2)\times R^3$ with SLAM Integration**|Marcus Greiff et.al.|[2110.01099](http://arxiv.org/abs/2110.01099)|null|
 |**2021-10-02**|**Online Incremental Non-Gaussian Inference for SLAM Using Normalizing Flows**|Qiangqiang Huang et.al.|[2110.00876](http://arxiv.org/abs/2110.00876)|**[link](https://github.com/marineroboticsgroup/nf-isam)**|
 
-<p align=right>(<a href=#updated-on-20261013>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261014>back to top</a>)</p>
 
 ## SFM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-10**|**RootSLAM: Square Root Bundle Adjustment for Visual-Inertial SLAM**|Tomás Santucci et.al.|[2610.15157](http://arxiv.org/abs/2610.15157)|null|
+|**2026-10-08**|**When pose graphs are not enough: a failure analysis of pose-graph-based camera estimation for Gaussian splatting**|Senthil Palanisamy et.al.|[2610.14090](http://arxiv.org/abs/2610.14090)|null|
 |**2026-10-08**|**Inflow-driven galaxy evolution - II: A hierarchy in the scaling relations of star-forming galaxies**|Kai Wang et.al.|[2610.12394](http://arxiv.org/abs/2610.12394)|null|
 |**2026-10-06**|**Image-Space Refraction Correction for Underwater 3D Reconstruction: Warping Flat-Port Views into Pinhole Perspective**|Chelim Lim et.al.|[2610.07788](http://arxiv.org/abs/2610.07788)|null|
 |**2026-10-05**|**Structural Foundations of Nonlinear Systems with Unknown Inputs: The UID-Induced Normal Form and Minimal-Sensing Structure-from-Motion**|Agostino Martinelli et.al.|[2610.05939](http://arxiv.org/abs/2610.05939)|null|
@@ -2510,12 +2520,20 @@
 |**2021-08-29**|**Solving Viewing Graph Optimization for Simultaneous Position and Rotation Registration**|Seyed-Mahdi Nasiri et.al.|[2108.12876](http://arxiv.org/abs/2108.12876)|null|
 |**2021-08-23**|**Burst Imaging for Light-Constrained Structure-From-Motion**|Ahalya Ravendran et.al.|[2108.09895](http://arxiv.org/abs/2108.09895)|null|
 
-<p align=right>(<a href=#updated-on-20261013>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261014>back to top</a>)</p>
 
 ## Visual Localization
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-13**|**MicroCLIP: Connecting Text and Microscopy Images via Contrastive Language--Image Pretraining**|Yanran Ruan et.al.|[2610.17866](http://arxiv.org/abs/2610.17866)|null|
+|**2026-10-12**|**Physical SLAM: Physics-aware Simultaneous Localisation and Mapping**|Guangming Wang et.al.|[2610.17260](http://arxiv.org/abs/2610.17260)|null|
+|**2026-10-12**|**Recovering from Pose-Selection Failures in Repeated Visual Localization**|Jaehyun Kim et.al.|[2610.16409](http://arxiv.org/abs/2610.16409)|null|
+|**2026-10-12**|**Removing the Compute Bottleneck for Event-based Visual Place Recognition with Spiking Neural Networks**|Somayeh Hussaini et.al.|[2610.16022](http://arxiv.org/abs/2610.16022)|null|
+|**2026-10-11**|**Radio Echo Representation Learning for Semantic Sensing in Multi-Modal ISAC Systems**|Guanping Shang et.al.|[2610.15338](http://arxiv.org/abs/2610.15338)|null|
+|**2026-10-10**|**DSM-Free UAV Visual Localization via Latent-Depth Variable Projection and Structure-Adaptive Coupling**|Yibin Ye et.al.|[2610.14945](http://arxiv.org/abs/2610.14945)|null|
+|**2026-10-10**|**PixARG: Pixel-Asynchronous Retrieval-Augmented Diffusion for Fast and Realistic Image Generation**|Zewei Xin et.al.|[2610.14713](http://arxiv.org/abs/2610.14713)|null|
+|**2026-10-09**|**CAPTOR: a vision-language foundation model for Chest-Abdomen-Pelvis Oncologic CT**|Séléna Jean-Mactoux et.al.|[2610.14226](http://arxiv.org/abs/2610.14226)|null|
 |**2026-10-08**|**Learning Which Correspondences to Trust: Confidence-Weighted Event-Camera Localization in LiDAR Maps**|Panagiotis Kiousis et.al.|[2610.11967](http://arxiv.org/abs/2610.11967)|null|
 |**2026-10-08**|**SatFix: Absolute Visual Localization of UAVs in Satellite Maps from a Single Oblique Image**|Jiarui Zeng et.al.|[2610.11049](http://arxiv.org/abs/2610.11049)|null|
 |**2026-10-07**|**Region-Aware CLS Token Augmentation for Fine-Grained Image Retrieval**|Ian de Holanda Cavalcanti Bezerra et.al.|[2610.10991](http://arxiv.org/abs/2610.10991)|null|
@@ -5538,12 +5556,13 @@
 |**2021-09-09**|**CrowdDriven: A New Challenging Dataset for Outdoor Visual Localization**|Ara Jafarzadeh et.al.|[2109.04527](http://arxiv.org/abs/2109.04527)|null|
 |**2021-09-09**|**Keeping an Eye on Things: Deep Learned Features for Long-Term Visual Localization**|Mona Gridseth et.al.|[2109.04041](http://arxiv.org/abs/2109.04041)|**[link](https://github.com/utiasasrl/deep_learned_visual_features)**|
 
-<p align=right>(<a href=#updated-on-20261013>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261014>back to top</a>)</p>
 
 ## Keypoint Detection
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-12**|**Towards Complementary Keypoint Detection via Mixture of Detectors**|Xiaoyong Lu et.al.|[2610.16762](http://arxiv.org/abs/2610.16762)|null|
 |**2026-10-07**|**MorphCL: Morphological Contrastive Learning for Inertial-based Human Activity Recognition**|Marius Bock et.al.|[2610.10245](http://arxiv.org/abs/2610.10245)|null|
 |**2026-10-05**|**Toward Reliable Infant Pose Estimation: A Training-Dynamics Approach to Noisy Annotation Detection**|Emanuele Cardinale et.al.|[2610.06423](http://arxiv.org/abs/2610.06423)|null|
 |**2026-09-30**|**AHMAD: Adaptive Hybrid Multi-task Vision Learning with Assisted Distillation for Keypoint Detection**|Mohammad Mahdi et.al.|[2609.35490](http://arxiv.org/abs/2609.35490)|null|
@@ -6111,12 +6130,13 @@
 |**2021-08-31**|**A Novel Dataset for Keypoint Detection of quadruped Animals from Images**|Prianka Banik et.al.|[2108.13958](http://arxiv.org/abs/2108.13958)|**[link](https://github.com/prinik/awa-pose)**|
 |**2021-08-27**|**A Matching Algorithm based on Image Attribute Transfer and Local Features for Underwater Acoustic and Optical Images**|Xiaoteng Zhou et.al.|[2108.12151](http://arxiv.org/abs/2108.12151)|null|
 
-<p align=right>(<a href=#updated-on-20261013>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261014>back to top</a>)</p>
 
 ## Image Matching
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-12**|**The Value of Being Wrong: Self-Mined Visual In-Context Learning from Errors**|Shu Zhao et.al.|[2610.16977](http://arxiv.org/abs/2610.16977)|null|
 |**2026-10-09**|**Efficient Confidence-Aware Densification for 3DGS**|Manuel Hofer et.al.|[2610.13541](http://arxiv.org/abs/2610.13541)|null|
 |**2026-10-05**|**WildMatch: Weakly Supervised Image Matcher Adaptation for Wildlife Re-Identification**|Turhan Can Kargin et.al.|[2610.07384](http://arxiv.org/abs/2610.07384)|null|
 |**2026-10-02**|**Geometry-Aligned Semantic Matching for Cross-Modal Planar Image Registration**|Zhiwei Wang et.al.|[2610.03167](http://arxiv.org/abs/2610.03167)|null|
@@ -7515,7 +7535,7 @@
 |**2021-08-27**|**Matching Underwater Sonar Images by the Learned Descriptor Based on Style Transfer Method**|Xiaoteng Zhou et.al.|[2108.12072](http://arxiv.org/abs/2108.12072)|null|
 |**2021-08-26**|**Efficient Joint Object Matching via Linear Programming**|Antonio De Rosa et.al.|[2108.11911](http://arxiv.org/abs/2108.11911)|null|
 
-<p align=right>(<a href=#updated-on-20261013>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261014>back to top</a>)</p>
 
 ## NeRF
 
@@ -9425,7 +9445,7 @@
 |**2022-07-29**|**Neural Density-Distance Fields**|Itsuki Ueda et.al.|[2207.14455](http://arxiv.org/abs/2207.14455)|**[link](https://github.com/ueda0319/neddf)**|
 |**2022-07-27**|**Is Attention All NeRF Needs?**|Mukund Varma T et.al.|[2207.13298](http://arxiv.org/abs/2207.13298)|null|
 
-<p align=right>(<a href=#updated-on-20261013>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261014>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
