@@ -2,13 +2,18 @@
 layout: default
 ---
 
-## Updated on 2026.10.15
+## Updated on 2026.10.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-15**|**AVALON: Zero-Shot Indoor Navigation with Human-Seeded Topological Memory**|Jing Xia et.al.|[2610.21586](http://arxiv.org/abs/2610.21586)|null|
+|**2026-10-15**|**CLAD: Keypoint Matching Using Global Line Correspondences**|Masaki Satoh et.al.|[2610.21409](http://arxiv.org/abs/2610.21409)|null|
+|**2026-10-15**|**LIN-SLAM: Lightweight LiDAR--Inertial Neural SLAM for Real-Time Onboard Navigation**|Shiqi Che et.al.|[2610.21199](http://arxiv.org/abs/2610.21199)|null|
+|**2026-10-14**|**Line-Augmented cuVSLAM: Robust Visual Odometry in Low-Texture Environments**|Dara Molloy et.al.|[2610.20958](http://arxiv.org/abs/2610.20958)|null|
+|**2026-10-14**|**Zero-Shot Spoken Language Understanding with SLAM-ASR: What Do Monolingual ASR-Trained Linear Projectors Enable?**|Edwin Arkel Rios et.al.|[2610.20844](http://arxiv.org/abs/2610.20844)|null|
 |**2026-10-14**|**HyperLoop: Hyperspectral-Assisted Loop Closure Detection in 3D-SLAM for Planetary Exploration**|Annie Bhalla et.al.|[2610.19742](http://arxiv.org/abs/2610.19742)|null|
 |**2026-10-14**|**Remember, Revisit, Revise: Scaffold Memory for Long-Horizon 3D Geometry**|Soumick Sarker et.al.|[2610.19674](http://arxiv.org/abs/2610.19674)|null|
 |**2026-10-13**|**RingNav: Task-Shaped Circular Memory for Visual Heading**|Naitri Rajyaguru et.al.|[2610.19044](http://arxiv.org/abs/2610.19044)|null|
@@ -1457,6 +1462,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-15**|**RoboCloth: A Large-Scale Real Cloth Material Dataset for Neural Reflectance Reconstruction**|Zhen Li et.al.|[2610.21090](http://arxiv.org/abs/2610.21090)|null|
 |**2026-10-14**|**Why 3D Reconstruction Breaks Down on Under-Ice AUV Video, and How to Predict It**|Ana-Ştefania Kogălniceanu et.al.|[2610.19993](http://arxiv.org/abs/2610.19993)|null|
 |**2026-10-13**|**Benchmarking 3D Reconstruction for Under-Ice Robotic Perception in Arctic Environments**|Klára Orbán et.al.|[2610.19097](http://arxiv.org/abs/2610.19097)|null|
 |**2026-10-10**|**RootSLAM: Square Root Bundle Adjustment for Visual-Inertial SLAM**|Tomás Santucci et.al.|[2610.15157](http://arxiv.org/abs/2610.15157)|null|
@@ -2519,6 +2525,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-15**|**Vision-Guided Closed-Loop Autonomous Navigation of Light-Driven Janus Microbots**|Kanhu Charan Andia et.al.|[2610.21222](http://arxiv.org/abs/2610.21222)|null|
 |**2026-10-14**|**HyperLoop: Hyperspectral-Assisted Loop Closure Detection in 3D-SLAM for Planetary Exploration**|Annie Bhalla et.al.|[2610.19742](http://arxiv.org/abs/2610.19742)|null|
 |**2026-10-13**|**MicroCLIP: Connecting Text and Microscopy Images via Contrastive Language--Image Pretraining**|Yanran Ruan et.al.|[2610.17866](http://arxiv.org/abs/2610.17866)|null|
 |**2026-10-12**|**Physical SLAM: Physics-aware Simultaneous Localisation and Mapping**|Guangming Wang et.al.|[2610.17260](http://arxiv.org/abs/2610.17260)|null|
@@ -5554,6 +5561,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-15**|**Teaching DINOv3 About Partial 3D Geometry: A Self-Supervised Geometry-Aware Approach**|Viktoria Ehm et.al.|[2610.21802](http://arxiv.org/abs/2610.21802)|null|
 |**2026-10-12**|**Towards Complementary Keypoint Detection via Mixture of Detectors**|Xiaoyong Lu et.al.|[2610.16762](http://arxiv.org/abs/2610.16762)|null|
 |**2026-10-07**|**MorphCL: Morphological Contrastive Learning for Inertial-based Human Activity Recognition**|Marius Bock et.al.|[2610.10245](http://arxiv.org/abs/2610.10245)|null|
 |**2026-10-05**|**Toward Reliable Infant Pose Estimation: A Training-Dynamics Approach to Noisy Annotation Detection**|Emanuele Cardinale et.al.|[2610.06423](http://arxiv.org/abs/2610.06423)|null|
@@ -6126,6 +6134,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-15**|**CLAD: Keypoint Matching Using Global Line Correspondences**|Masaki Satoh et.al.|[2610.21409](http://arxiv.org/abs/2610.21409)|null|
 |**2026-10-12**|**The Value of Being Wrong: Self-Mined Visual In-Context Learning from Errors**|Shu Zhao et.al.|[2610.16977](http://arxiv.org/abs/2610.16977)|null|
 |**2026-10-09**|**Efficient Confidence-Aware Densification for 3DGS**|Manuel Hofer et.al.|[2610.13541](http://arxiv.org/abs/2610.13541)|null|
 |**2026-10-05**|**WildMatch: Weakly Supervised Image Matcher Adaptation for Wildlife Re-Identification**|Turhan Can Kargin et.al.|[2610.07384](http://arxiv.org/abs/2610.07384)|null|
