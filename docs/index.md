@@ -2,13 +2,15 @@
 layout: default
 ---
 
-## Updated on 2026.10.20
+## Updated on 2026.10.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-20**|**MAPLE: Mondrian-Anchored Prior for Learning-free Indoor Exploration**|Kelvin Aladum et.al.|[2610.28566](http://arxiv.org/abs/2610.28566)|null|
+|**2026-10-20**|**A Head Camera Is (Almost) All You Need: An Electronics-Free UMI Glove Labelled and Observed by One Moving Camera**|Yosub Shin et.al.|[2610.27622](http://arxiv.org/abs/2610.27622)|null|
 |**2026-10-19**|**V-JEPA Hand: Simple, Accurate and Fast 3D Hand and Camera Trajectory Recovery from Egocentric Videos**|Ruicheng Li et.al.|[2610.26780](http://arxiv.org/abs/2610.26780)|null|
 |**2026-10-19**|**CAOS-SLAM: Class-Agnostic Object-Aware Real-Time vSLAM for Dynamic Environments**|Gaia Borghi et.al.|[2610.26633](http://arxiv.org/abs/2610.26633)|null|
 |**2026-10-19**|**EgoXperience: Learning World-Grounded Egocentric Representations from Human Experience**|Xinhao Ji et.al.|[2610.26625](http://arxiv.org/abs/2610.26625)|null|
@@ -1471,6 +1473,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-20**|**CrossFit-GS: Out-of-Fold Pose Estimation for COLMAP-Free 3D Gaussian Splatting**|Zijian Wu et.al.|[2610.28190](http://arxiv.org/abs/2610.28190)|null|
 |**2026-10-18**|**Localization and Neural Splatting on the Edge: An FPGA Scene Memory for Robots**|Que Haohua et.al.|[2610.25068](http://arxiv.org/abs/2610.25068)|null|
 |**2026-10-16**|**Ionic switching between supermagnetic states**|Sumaiyatul Ahsan et.al.|[2610.23829](http://arxiv.org/abs/2610.23829)|null|
 |**2026-10-19**|**RoboCloth: A Large-Scale Real Cloth Material Dataset for Neural Reflectance Reconstruction**|Zhen Li et.al.|[2610.21090](http://arxiv.org/abs/2610.21090)|null|
@@ -2536,6 +2539,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-20**|**Copyright Leakage Detection in AI Generated Videos**|Shaif Chowdhury et.al.|[2610.28524](http://arxiv.org/abs/2610.28524)|null|
+|**2026-10-20**|**Multimodal Reranking Is a System One Decision**|Zhuchenyang Liu et.al.|[2610.28435](http://arxiv.org/abs/2610.28435)|null|
+|**2026-10-20**|**Less is More: Concise Retrieval and Critic-based Re-ranking for Composed Image Retrieval**|Yuqian Zheng et.al.|[2610.27538](http://arxiv.org/abs/2610.27538)|null|
+|**2026-10-20**|**OmniVLoc: Topo-metric Visual Localization for Omnidirectional Cameras**|Zhuo Yu et.al.|[2610.27522](http://arxiv.org/abs/2610.27522)|null|
+|**2026-10-19**|**MatchCityLoc: Aerial Localization in LoD City Models via Surface Normal Matching**|Oussema Dhaouadi et.al.|[2610.27110](http://arxiv.org/abs/2610.27110)|null|
 |**2026-10-19**|**PlanarCityLoc: Breaking Silhouette Ambiguity in LoD Aerial Localization via 3D Planes**|Oussema Dhaouadi et.al.|[2610.26729](http://arxiv.org/abs/2610.26729)|null|
 |**2026-10-19**|**CaptionFuse: Training-Free Composed Product Retrieval Via VLM Intent Captioning and Weighted Embedding Fusion**|Zhao Gao et.al.|[2610.26661](http://arxiv.org/abs/2610.26661)|null|
 |**2026-10-19**|**DCR-TSF: Dual-Level Compositional Reasoning with Triadic Spherical Fusion for Training-Free Zero-Shot Composed Image Retrieval**|Gwang-Ho Na et.al.|[2610.26078](http://arxiv.org/abs/2610.26078)|null|
@@ -7558,6 +7566,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-20**|**Geometry Regularization for Vanilla NeRF via Self-Supervised Cross-Ray Consistency**|Zongji Wang et.al.|[2610.27776](http://arxiv.org/abs/2610.27776)|null|
+|**2026-10-19**|**NeRF-Inspired Neural Fields for 3D Super-resolution of Reacting-Flows**|Dakshaka Vishwajith Amarathunga et.al.|[2610.27284](http://arxiv.org/abs/2610.27284)|null|
+|**2026-10-16**|**EGGHead: Efficient Generalizable Gaussian Heads from a Single Image**|Pilseo Park et.al.|[2610.26898](http://arxiv.org/abs/2610.26898)|null|
 |**2026-10-19**|**RxGS: Relightable Gaussian Stylization via BRDF Decomposition**|Wanrong Hong et.al.|[2610.25681](http://arxiv.org/abs/2610.25681)|null|
 |**2026-10-17**|**Directionally Factorized Illumination with Spherical Harmonic Rotation**|Yimeng Dou et.al.|[2610.24811](http://arxiv.org/abs/2610.24811)|null|
 |**2026-10-15**|**DriveWorld3D Evidence Constrained 3D World Modeling and Generative Simulation for Real-World Autonomous Driving**|Wei Wang et.al.|[2610.22450](http://arxiv.org/abs/2610.22450)|null|

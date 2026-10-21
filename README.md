@@ -1,4 +1,4 @@
-## Updated on 2026.10.20
+## Updated on 2026.10.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -17,6 +17,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-20**|**MAPLE: Mondrian-Anchored Prior for Learning-free Indoor Exploration**|Kelvin Aladum et.al.|[2610.28566](http://arxiv.org/abs/2610.28566)|null|
+|**2026-10-20**|**A Head Camera Is (Almost) All You Need: An Electronics-Free UMI Glove Labelled and Observed by One Moving Camera**|Yosub Shin et.al.|[2610.27622](http://arxiv.org/abs/2610.27622)|null|
 |**2026-10-19**|**V-JEPA Hand: Simple, Accurate and Fast 3D Hand and Camera Trajectory Recovery from Egocentric Videos**|Ruicheng Li et.al.|[2610.26780](http://arxiv.org/abs/2610.26780)|null|
 |**2026-10-19**|**CAOS-SLAM: Class-Agnostic Object-Aware Real-Time vSLAM for Dynamic Environments**|Gaia Borghi et.al.|[2610.26633](http://arxiv.org/abs/2610.26633)|null|
 |**2026-10-19**|**EgoXperience: Learning World-Grounded Egocentric Representations from Human Experience**|Xinhao Ji et.al.|[2610.26625](http://arxiv.org/abs/2610.26625)|null|
@@ -1475,12 +1477,13 @@
 |**2021-10-03**|**Quadrotor Control on $SU(2)\times R^3$ with SLAM Integration**|Marcus Greiff et.al.|[2110.01099](http://arxiv.org/abs/2110.01099)|null|
 |**2021-10-02**|**Online Incremental Non-Gaussian Inference for SLAM Using Normalizing Flows**|Qiangqiang Huang et.al.|[2110.00876](http://arxiv.org/abs/2110.00876)|**[link](https://github.com/marineroboticsgroup/nf-isam)**|
 
-<p align=right>(<a href=#updated-on-20261020>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261021>back to top</a>)</p>
 
 ## SFM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-20**|**CrossFit-GS: Out-of-Fold Pose Estimation for COLMAP-Free 3D Gaussian Splatting**|Zijian Wu et.al.|[2610.28190](http://arxiv.org/abs/2610.28190)|null|
 |**2026-10-18**|**Localization and Neural Splatting on the Edge: An FPGA Scene Memory for Robots**|Que Haohua et.al.|[2610.25068](http://arxiv.org/abs/2610.25068)|null|
 |**2026-10-16**|**Ionic switching between supermagnetic states**|Sumaiyatul Ahsan et.al.|[2610.23829](http://arxiv.org/abs/2610.23829)|null|
 |**2026-10-19**|**RoboCloth: A Large-Scale Real Cloth Material Dataset for Neural Reflectance Reconstruction**|Zhen Li et.al.|[2610.21090](http://arxiv.org/abs/2610.21090)|null|
@@ -2542,12 +2545,17 @@
 |**2021-08-29**|**Solving Viewing Graph Optimization for Simultaneous Position and Rotation Registration**|Seyed-Mahdi Nasiri et.al.|[2108.12876](http://arxiv.org/abs/2108.12876)|null|
 |**2021-08-23**|**Burst Imaging for Light-Constrained Structure-From-Motion**|Ahalya Ravendran et.al.|[2108.09895](http://arxiv.org/abs/2108.09895)|null|
 
-<p align=right>(<a href=#updated-on-20261020>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261021>back to top</a>)</p>
 
 ## Visual Localization
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-20**|**Copyright Leakage Detection in AI Generated Videos**|Shaif Chowdhury et.al.|[2610.28524](http://arxiv.org/abs/2610.28524)|null|
+|**2026-10-20**|**Multimodal Reranking Is a System One Decision**|Zhuchenyang Liu et.al.|[2610.28435](http://arxiv.org/abs/2610.28435)|null|
+|**2026-10-20**|**Less is More: Concise Retrieval and Critic-based Re-ranking for Composed Image Retrieval**|Yuqian Zheng et.al.|[2610.27538](http://arxiv.org/abs/2610.27538)|null|
+|**2026-10-20**|**OmniVLoc: Topo-metric Visual Localization for Omnidirectional Cameras**|Zhuo Yu et.al.|[2610.27522](http://arxiv.org/abs/2610.27522)|null|
+|**2026-10-19**|**MatchCityLoc: Aerial Localization in LoD City Models via Surface Normal Matching**|Oussema Dhaouadi et.al.|[2610.27110](http://arxiv.org/abs/2610.27110)|null|
 |**2026-10-19**|**PlanarCityLoc: Breaking Silhouette Ambiguity in LoD Aerial Localization via 3D Planes**|Oussema Dhaouadi et.al.|[2610.26729](http://arxiv.org/abs/2610.26729)|null|
 |**2026-10-19**|**CaptionFuse: Training-Free Composed Product Retrieval Via VLM Intent Captioning and Weighted Embedding Fusion**|Zhao Gao et.al.|[2610.26661](http://arxiv.org/abs/2610.26661)|null|
 |**2026-10-19**|**DCR-TSF: Dual-Level Compositional Reasoning with Triadic Spherical Fusion for Training-Free Zero-Shot Composed Image Retrieval**|Gwang-Ho Na et.al.|[2610.26078](http://arxiv.org/abs/2610.26078)|null|
@@ -5587,7 +5595,7 @@
 |**2021-09-09**|**CrowdDriven: A New Challenging Dataset for Outdoor Visual Localization**|Ara Jafarzadeh et.al.|[2109.04527](http://arxiv.org/abs/2109.04527)|null|
 |**2021-09-09**|**Keeping an Eye on Things: Deep Learned Features for Long-Term Visual Localization**|Mona Gridseth et.al.|[2109.04041](http://arxiv.org/abs/2109.04041)|**[link](https://github.com/utiasasrl/deep_learned_visual_features)**|
 
-<p align=right>(<a href=#updated-on-20261020>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261021>back to top</a>)</p>
 
 ## Keypoint Detection
 
@@ -6162,7 +6170,7 @@
 |**2021-08-31**|**A Novel Dataset for Keypoint Detection of quadruped Animals from Images**|Prianka Banik et.al.|[2108.13958](http://arxiv.org/abs/2108.13958)|**[link](https://github.com/prinik/awa-pose)**|
 |**2021-08-27**|**A Matching Algorithm based on Image Attribute Transfer and Local Features for Underwater Acoustic and Optical Images**|Xiaoteng Zhou et.al.|[2108.12151](http://arxiv.org/abs/2108.12151)|null|
 
-<p align=right>(<a href=#updated-on-20261020>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261021>back to top</a>)</p>
 
 ## Image Matching
 
@@ -7570,12 +7578,15 @@
 |**2021-08-27**|**Matching Underwater Sonar Images by the Learned Descriptor Based on Style Transfer Method**|Xiaoteng Zhou et.al.|[2108.12072](http://arxiv.org/abs/2108.12072)|null|
 |**2021-08-26**|**Efficient Joint Object Matching via Linear Programming**|Antonio De Rosa et.al.|[2108.11911](http://arxiv.org/abs/2108.11911)|null|
 
-<p align=right>(<a href=#updated-on-20261020>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261021>back to top</a>)</p>
 
 ## NeRF
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-20**|**Geometry Regularization for Vanilla NeRF via Self-Supervised Cross-Ray Consistency**|Zongji Wang et.al.|[2610.27776](http://arxiv.org/abs/2610.27776)|null|
+|**2026-10-19**|**NeRF-Inspired Neural Fields for 3D Super-resolution of Reacting-Flows**|Dakshaka Vishwajith Amarathunga et.al.|[2610.27284](http://arxiv.org/abs/2610.27284)|null|
+|**2026-10-16**|**EGGHead: Efficient Generalizable Gaussian Heads from a Single Image**|Pilseo Park et.al.|[2610.26898](http://arxiv.org/abs/2610.26898)|null|
 |**2026-10-19**|**RxGS: Relightable Gaussian Stylization via BRDF Decomposition**|Wanrong Hong et.al.|[2610.25681](http://arxiv.org/abs/2610.25681)|null|
 |**2026-10-17**|**Directionally Factorized Illumination with Spherical Harmonic Rotation**|Yimeng Dou et.al.|[2610.24811](http://arxiv.org/abs/2610.24811)|null|
 |**2026-10-15**|**DriveWorld3D Evidence Constrained 3D World Modeling and Generative Simulation for Real-World Autonomous Driving**|Wei Wang et.al.|[2610.22450](http://arxiv.org/abs/2610.22450)|null|
@@ -9485,7 +9496,7 @@
 |**2022-07-29**|**Neural Density-Distance Fields**|Itsuki Ueda et.al.|[2207.14455](http://arxiv.org/abs/2207.14455)|**[link](https://github.com/ueda0319/neddf)**|
 |**2022-07-27**|**Is Attention All NeRF Needs?**|Mukund Varma T et.al.|[2207.13298](http://arxiv.org/abs/2207.13298)|null|
 
-<p align=right>(<a href=#updated-on-20261020>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261021>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
