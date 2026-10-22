@@ -1,4 +1,4 @@
-## Updated on 2026.10.21
+## Updated on 2026.10.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -17,6 +17,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-21**|**DewHand: Direct Metric World-Space Hand Motion Reconstruction from Egocentric Videos**|Naru Suzuki et.al.|[2610.29936](http://arxiv.org/abs/2610.29936)|null|
 |**2026-10-20**|**MAPLE: Mondrian-Anchored Prior for Learning-free Indoor Exploration**|Kelvin Aladum et.al.|[2610.28566](http://arxiv.org/abs/2610.28566)|null|
 |**2026-10-20**|**A Head Camera Is (Almost) All You Need: An Electronics-Free UMI Glove Labelled and Observed by One Moving Camera**|Yosub Shin et.al.|[2610.27622](http://arxiv.org/abs/2610.27622)|null|
 |**2026-10-19**|**V-JEPA Hand: Simple, Accurate and Fast 3D Hand and Camera Trajectory Recovery from Egocentric Videos**|Ruicheng Li et.al.|[2610.26780](http://arxiv.org/abs/2610.26780)|null|
@@ -1477,7 +1478,7 @@
 |**2021-10-03**|**Quadrotor Control on $SU(2)\times R^3$ with SLAM Integration**|Marcus Greiff et.al.|[2110.01099](http://arxiv.org/abs/2110.01099)|null|
 |**2021-10-02**|**Online Incremental Non-Gaussian Inference for SLAM Using Normalizing Flows**|Qiangqiang Huang et.al.|[2110.00876](http://arxiv.org/abs/2110.00876)|**[link](https://github.com/marineroboticsgroup/nf-isam)**|
 
-<p align=right>(<a href=#updated-on-20261021>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261022>back to top</a>)</p>
 
 ## SFM
 
@@ -2545,7 +2546,7 @@
 |**2021-08-29**|**Solving Viewing Graph Optimization for Simultaneous Position and Rotation Registration**|Seyed-Mahdi Nasiri et.al.|[2108.12876](http://arxiv.org/abs/2108.12876)|null|
 |**2021-08-23**|**Burst Imaging for Light-Constrained Structure-From-Motion**|Ahalya Ravendran et.al.|[2108.09895](http://arxiv.org/abs/2108.09895)|null|
 
-<p align=right>(<a href=#updated-on-20261021>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261022>back to top</a>)</p>
 
 ## Visual Localization
 
@@ -5595,7 +5596,7 @@
 |**2021-09-09**|**CrowdDriven: A New Challenging Dataset for Outdoor Visual Localization**|Ara Jafarzadeh et.al.|[2109.04527](http://arxiv.org/abs/2109.04527)|null|
 |**2021-09-09**|**Keeping an Eye on Things: Deep Learned Features for Long-Term Visual Localization**|Mona Gridseth et.al.|[2109.04041](http://arxiv.org/abs/2109.04041)|**[link](https://github.com/utiasasrl/deep_learned_visual_features)**|
 
-<p align=right>(<a href=#updated-on-20261021>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261022>back to top</a>)</p>
 
 ## Keypoint Detection
 
@@ -6170,7 +6171,7 @@
 |**2021-08-31**|**A Novel Dataset for Keypoint Detection of quadruped Animals from Images**|Prianka Banik et.al.|[2108.13958](http://arxiv.org/abs/2108.13958)|**[link](https://github.com/prinik/awa-pose)**|
 |**2021-08-27**|**A Matching Algorithm based on Image Attribute Transfer and Local Features for Underwater Acoustic and Optical Images**|Xiaoteng Zhou et.al.|[2108.12151](http://arxiv.org/abs/2108.12151)|null|
 
-<p align=right>(<a href=#updated-on-20261021>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261022>back to top</a>)</p>
 
 ## Image Matching
 
@@ -7578,12 +7579,15 @@
 |**2021-08-27**|**Matching Underwater Sonar Images by the Learned Descriptor Based on Style Transfer Method**|Xiaoteng Zhou et.al.|[2108.12072](http://arxiv.org/abs/2108.12072)|null|
 |**2021-08-26**|**Efficient Joint Object Matching via Linear Programming**|Antonio De Rosa et.al.|[2108.11911](http://arxiv.org/abs/2108.11911)|null|
 
-<p align=right>(<a href=#updated-on-20261021>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261022>back to top</a>)</p>
 
 ## NeRF
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-21**|**AutoPhyX: Automatic Text-Condition Physics Property Generation**|Bei Huang et.al.|[2610.29517](http://arxiv.org/abs/2610.29517)|null|
+|**2026-10-21**|**Progressive Permutation Alignment with Temperature-Controlled Spectral Sharpening**|Yuta Horioka et.al.|[2610.29396](http://arxiv.org/abs/2610.29396)|null|
+|**2026-10-21**|**DriftNeRF: Cross-Ray Density Drifting for Sparse-View Neural Radiance Fields**|Juntang Wang et.al.|[2610.29106](http://arxiv.org/abs/2610.29106)|null|
 |**2026-10-20**|**Geometry Regularization for Vanilla NeRF via Self-Supervised Cross-Ray Consistency**|Zongji Wang et.al.|[2610.27776](http://arxiv.org/abs/2610.27776)|null|
 |**2026-10-19**|**NeRF-Inspired Neural Fields for 3D Super-resolution of Reacting-Flows**|Dakshaka Vishwajith Amarathunga et.al.|[2610.27284](http://arxiv.org/abs/2610.27284)|null|
 |**2026-10-16**|**EGGHead: Efficient Generalizable Gaussian Heads from a Single Image**|Pilseo Park et.al.|[2610.26898](http://arxiv.org/abs/2610.26898)|null|
@@ -9496,7 +9500,7 @@
 |**2022-07-29**|**Neural Density-Distance Fields**|Itsuki Ueda et.al.|[2207.14455](http://arxiv.org/abs/2207.14455)|**[link](https://github.com/ueda0319/neddf)**|
 |**2022-07-27**|**Is Attention All NeRF Needs?**|Mukund Varma T et.al.|[2207.13298](http://arxiv.org/abs/2207.13298)|null|
 
-<p align=right>(<a href=#updated-on-20261021>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261022>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

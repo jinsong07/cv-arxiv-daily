@@ -2,13 +2,14 @@
 layout: default
 ---
 
-## Updated on 2026.10.21
+## Updated on 2026.10.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-21**|**DewHand: Direct Metric World-Space Hand Motion Reconstruction from Egocentric Videos**|Naru Suzuki et.al.|[2610.29936](http://arxiv.org/abs/2610.29936)|null|
 |**2026-10-20**|**MAPLE: Mondrian-Anchored Prior for Learning-free Indoor Exploration**|Kelvin Aladum et.al.|[2610.28566](http://arxiv.org/abs/2610.28566)|null|
 |**2026-10-20**|**A Head Camera Is (Almost) All You Need: An Electronics-Free UMI Glove Labelled and Observed by One Moving Camera**|Yosub Shin et.al.|[2610.27622](http://arxiv.org/abs/2610.27622)|null|
 |**2026-10-19**|**V-JEPA Hand: Simple, Accurate and Fast 3D Hand and Camera Trajectory Recovery from Egocentric Videos**|Ruicheng Li et.al.|[2610.26780](http://arxiv.org/abs/2610.26780)|null|
@@ -7566,6 +7567,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-21**|**AutoPhyX: Automatic Text-Condition Physics Property Generation**|Bei Huang et.al.|[2610.29517](http://arxiv.org/abs/2610.29517)|null|
+|**2026-10-21**|**Progressive Permutation Alignment with Temperature-Controlled Spectral Sharpening**|Yuta Horioka et.al.|[2610.29396](http://arxiv.org/abs/2610.29396)|null|
+|**2026-10-21**|**DriftNeRF: Cross-Ray Density Drifting for Sparse-View Neural Radiance Fields**|Juntang Wang et.al.|[2610.29106](http://arxiv.org/abs/2610.29106)|null|
 |**2026-10-20**|**Geometry Regularization for Vanilla NeRF via Self-Supervised Cross-Ray Consistency**|Zongji Wang et.al.|[2610.27776](http://arxiv.org/abs/2610.27776)|null|
 |**2026-10-19**|**NeRF-Inspired Neural Fields for 3D Super-resolution of Reacting-Flows**|Dakshaka Vishwajith Amarathunga et.al.|[2610.27284](http://arxiv.org/abs/2610.27284)|null|
 |**2026-10-16**|**EGGHead: Efficient Generalizable Gaussian Heads from a Single Image**|Pilseo Park et.al.|[2610.26898](http://arxiv.org/abs/2610.26898)|null|
