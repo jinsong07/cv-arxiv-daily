@@ -2,13 +2,17 @@
 layout: default
 ---
 
-## Updated on 2026.10.29
+## Updated on 2026.10.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-29**|**Smartphone Indoor Localization Enhanced by Hierarchical Multi-Sensor Context Recognition**|Wenhui Feng et.al.|[2610.39691](http://arxiv.org/abs/2610.39691)|null|
+|**2026-10-29**|**UMI-Live for In-The-Wild Bimanual Robotics Data Collection**|Govind Velamoor et.al.|[2610.39385](http://arxiv.org/abs/2610.39385)|null|
+|**2026-10-28**|**SKiD-SLAM: Resource-Aware Distributed Multi-Robot LiDAR SLAM for Planetary Missions with Field Deployments at Analog Sites**|Hogyun Kim et.al.|[2610.38141](http://arxiv.org/abs/2610.38141)|null|
+|**2026-10-27**|**A Stochastic LineseArch Method (SLAM) for Minimizing Expectation Residuals: Weakening Boundedness of Gradient**|Qi Wang et.al.|[2610.37947](http://arxiv.org/abs/2610.37947)|null|
 |**2026-10-27**|**RAVEN: A Unified Active SLAM System for Rapid Autonomous Visual Exploration with Aerial Robots under Localization Uncertainty**|Xinyi Chen et.al.|[2610.37111](http://arxiv.org/abs/2610.37111)|null|
 |**2026-10-27**|**HoloRecon: Incremental Reconstruction of Long-Range Panoramas with Global Consistency**|Zhuoxiao Li et.al.|[2610.36876](http://arxiv.org/abs/2610.36876)|null|
 |**2026-10-27**|**LingGS: Decoupling Feed-Forward Geometry Prediction from Camera Tracking for High-Fidelity Gaussian SLAM**|Da Li et.al.|[2610.36853](http://arxiv.org/abs/2610.36853)|null|
@@ -1486,6 +1490,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-28**|**Environmental Quenching of Satellite Galaxies out to z~0.4 with GAMA and DEVILS**|Megan Oxland et.al.|[2610.38836](http://arxiv.org/abs/2610.38836)|null|
 |**2026-10-27**|**HoloRecon: Incremental Reconstruction of Long-Range Panoramas with Global Consistency**|Zhuoxiao Li et.al.|[2610.36876](http://arxiv.org/abs/2610.36876)|null|
 |**2026-10-26**|**Synthetic Deformable Tubular Benchmark: A mechanically annotated dataset for evaluating deformable 3D reconstruction**|Íñigo Cirauqui-Viloria et.al.|[2610.35621](http://arxiv.org/abs/2610.35621)|null|
 |**2026-10-27**|**Metric Scale for Insta360 Structure-from-Motion from the Camera's Embedded IMU**|Davide Cuttini et.al.|[2610.35554](http://arxiv.org/abs/2610.35554)|null|
@@ -2561,6 +2566,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-29**|**FDSML: Formula-Driven Supervised Metric Learning with Parameter-Aware Triplet Loss**|Hina Otake et.al.|[2610.39423](http://arxiv.org/abs/2610.39423)|null|
+|**2026-10-27**|**What Constitutes Food Similarity? Visual Representations and Retrieval in Indian Cuisine**|Saransh Kumar Gupta et.al.|[2610.37867](http://arxiv.org/abs/2610.37867)|null|
 |**2026-10-27**|**RAVEN: A Unified Active SLAM System for Rapid Autonomous Visual Exploration with Aerial Robots under Localization Uncertainty**|Xinyi Chen et.al.|[2610.37111](http://arxiv.org/abs/2610.37111)|null|
 |**2026-10-26**|**VPR-Space: A Benchmark for Visual Place Recognition in Space Analog Domains**|Richard Fechner et.al.|[2610.35642](http://arxiv.org/abs/2610.35642)|null|
 |**2026-10-24**|**AV-FABLE: Audio-Visual Manipulation Forensics in Long-Form Videos**|Yuesheng Huang et.al.|[2610.33413](http://arxiv.org/abs/2610.33413)|null|
@@ -5618,6 +5625,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-29**|**InfantNet: A Large Scale Dataset for Infant Body Pose and Shape Estimation**|Zhipeng Hui et.al.|[2610.40467](http://arxiv.org/abs/2610.40467)|null|
 |**2026-10-15**|**Teaching DINOv3 About Partial 3D Geometry: A Self-Supervised Geometry-Aware Approach**|Viktoria Ehm et.al.|[2610.21802](http://arxiv.org/abs/2610.21802)|null|
 |**2026-10-12**|**Towards Complementary Keypoint Detection via Mixture of Detectors**|Xiaoyong Lu et.al.|[2610.16762](http://arxiv.org/abs/2610.16762)|null|
 |**2026-10-07**|**MorphCL: Morphological Contrastive Learning for Inertial-based Human Activity Recognition**|Marius Bock et.al.|[2610.10245](http://arxiv.org/abs/2610.10245)|null|
@@ -6191,10 +6199,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-29**|**Luggage re-identification: A study of strategies towards a real-world application**|Quentin Dhôte et.al.|[2610.40643](http://arxiv.org/abs/2610.40643)|null|
+|**2026-10-29**|**Comprehensive empirical evaluation of feature extractors in computer vision**|Murat Isik et.al.|[2610.39551](http://arxiv.org/abs/2610.39551)|null|
+|**2026-10-28**|**Aligning Misaligned Benchmarks for Single-View Novel View Synthesis**|Yang-Che Tseng et.al.|[2610.38349](http://arxiv.org/abs/2610.38349)|null|
 |**2026-10-23**|**ACVA-Bench: Beyond Prompt Following in Abstract Concept Visualization Ability for Text-to-Image Models**|Mengyan Wang et.al.|[2610.32058](http://arxiv.org/abs/2610.32058)|null|
 |**2026-10-22**|**MVLoMa: Multi-View Local Feature Matching with Any Geometry Foundation Model**|Xinyang Lu et.al.|[2610.31321](http://arxiv.org/abs/2610.31321)|null|
 |**2026-10-22**|**HimmBO: High-Dimensional Interactive Model-Merging Bayesian Optimization for Image Generation**|Jinyuan Mao et.al.|[2610.30875](http://arxiv.org/abs/2610.30875)|null|
-|**2026-10-22**|**WovenAnchor Matcher: Specialized Intra- and Inter-Image Context Modeling for Feature Matching**|Zhiyang Li et.al.|[2610.30799](http://arxiv.org/abs/2610.30799)|null|
+|**2026-10-28**|**WovenAnchor Matcher: Specialized Intra- and Inter-Image Context Modeling for Feature Matching**|Zhiyang Li et.al.|[2610.30799](http://arxiv.org/abs/2610.30799)|null|
 |**2026-10-18**|**LateMatch: Breaking the Interaction Bottleneck via Cacheable Matching for Efficient Visual Localization**|Mohammad Omama et.al.|[2610.25358](http://arxiv.org/abs/2610.25358)|null|
 |**2026-10-16**|**DinoMUSE: A DINOv2-guided Framework for Unsupervised Lateral Motion Estimation in Ultrasound Elastography**|Xiyao Meng et.al.|[2610.24020](http://arxiv.org/abs/2610.24020)|null|
 |**2026-10-15**|**CLAD: Keypoint Matching Using Global Line Correspondences**|Masaki Satoh et.al.|[2610.21409](http://arxiv.org/abs/2610.21409)|null|
