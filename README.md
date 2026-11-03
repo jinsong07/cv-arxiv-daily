@@ -1,4 +1,4 @@
-## Updated on 2026.11.02
+## Updated on 2026.11.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -17,6 +17,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-02**|**A Tightly Coupled Magnetic-Inertial SLAM System for Field Robots**|Chuan Huang et.al.|[2611.03106](http://arxiv.org/abs/2611.03106)|null|
+|**2026-11-01**|**UniGS-SLAM: Monocular Gaussian SLAM with Enhanced Geometry and Open-Vocabulary Semantics**|Xingyuan Ding et.al.|[2611.02051](http://arxiv.org/abs/2611.02051)|null|
+|**2026-11-01**|**Spade-SLAM: Sparse Correspondence Anchors for Dense Self-Supervised Visual SLAM**|Julian Philipp Schmitt et.al.|[2611.01937](http://arxiv.org/abs/2611.01937)|null|
+|**2026-11-01**|**GSExplorer: Interactive World Generation with a Persistent 3D Gaussian World State**|Sicheng Yu et.al.|[2611.01543](http://arxiv.org/abs/2611.01543)|null|
+|**2026-11-01**|**Spectral-Convolutional Factorized Transformer for Joint Multipath Parameter Estimation: Applications to mmWave Positioning and Radio SLAM**|Yaya Etiabi et.al.|[2611.01491](http://arxiv.org/abs/2611.01491)|null|
+|**2026-10-31**|**A Straight Line Is Not a Camera Pose: Auditing Short-Clip Pose Benchmarks**|Xinyi Shi et.al.|[2611.00482](http://arxiv.org/abs/2611.00482)|null|
 |**2026-10-30**|**Visual-Inertial RGB-D SLAM with Encoders for a Differential Wheeled Robot**|Zhanghao Zhu et.al.|[2610.41768](http://arxiv.org/abs/2610.41768)|null|
 |**2026-10-30**|**DrawSplat: Atlanta World-Guided Implicit Gaussian SLAM for Indoor Reconstruction**|Fan Zhu et.al.|[2610.41602](http://arxiv.org/abs/2610.41602)|null|
 |**2026-10-29**|**Stochastic Linesearch Methods for Stochastic Variational Inequality Problems: Parameter-Free Schemes and Non-Monotone Variants**|Zhuoyu Xiao et.al.|[2610.41065](http://arxiv.org/abs/2610.41065)|null|
@@ -1497,12 +1503,16 @@
 |**2021-10-03**|**Quadrotor Control on $SU(2)\times R^3$ with SLAM Integration**|Marcus Greiff et.al.|[2110.01099](http://arxiv.org/abs/2110.01099)|null|
 |**2021-10-02**|**Online Incremental Non-Gaussian Inference for SLAM Using Normalizing Flows**|Qiangqiang Huang et.al.|[2110.00876](http://arxiv.org/abs/2110.00876)|**[link](https://github.com/marineroboticsgroup/nf-isam)**|
 
-<p align=right>(<a href=#updated-on-20261102>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261103>back to top</a>)</p>
 
 ## SFM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-02**|**Ray-SCR: Generalizing Scene Coordinate Regression Across Camera Models**|Jaemin Cho et.al.|[2611.03098](http://arxiv.org/abs/2611.03098)|null|
+|**2026-11-02**|**RESONATE: a Real Social Navigation Testbed for Autonomous Service Robots**|Stefano Trepella et.al.|[2611.02937](http://arxiv.org/abs/2611.02937)|null|
+|**2026-11-02**|**Solv3R: 3D Looped Transformer as a Multi-view Solver**|Jeong-gi Kwak et.al.|[2611.02857](http://arxiv.org/abs/2611.02857)|null|
+|**2026-11-01**|**Depth Anyviewpoint? Evaluating Monocular Depth Over Viewpoint Sequences**|Theo Rode et.al.|[2611.02203](http://arxiv.org/abs/2611.02203)|null|
 |**2026-10-30**|**MFlowAudio: Efficient Text-to-Audio Synthesis via Mamba-based Stateful Flow Matching**|Hao Dai et.al.|[2610.41852](http://arxiv.org/abs/2610.41852)|null|
 |**2026-10-30**|**OASIS II: The Ionized Gas Traces Feedback-Driven Declines into the Quiet Side of Bursty Star Formation at z > 4**|Tobias J. Looser et.al.|[2610.41490](http://arxiv.org/abs/2610.41490)|null|
 |**2026-10-30**|**OASIS I: Spectroscopy of Mini-Quenched and Lulling Galaxies Constrains the Quiet Side of Bursty Star Formation at z > 4**|Tobias J. Looser et.al.|[2610.41489](http://arxiv.org/abs/2610.41489)|null|
@@ -2579,12 +2589,15 @@
 |**2021-08-29**|**Solving Viewing Graph Optimization for Simultaneous Position and Rotation Registration**|Seyed-Mahdi Nasiri et.al.|[2108.12876](http://arxiv.org/abs/2108.12876)|null|
 |**2021-08-23**|**Burst Imaging for Light-Constrained Structure-From-Motion**|Ahalya Ravendran et.al.|[2108.09895](http://arxiv.org/abs/2108.09895)|null|
 
-<p align=right>(<a href=#updated-on-20261102>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261103>back to top</a>)</p>
 
 ## Visual Localization
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-02**|**Ray-SCR: Generalizing Scene Coordinate Regression Across Camera Models**|Jaemin Cho et.al.|[2611.03098](http://arxiv.org/abs/2611.03098)|null|
+|**2026-11-01**|**Text-Assisted Event Stream Visual Place Recognition via Multi-Scale Spatiotemporal Optimal Transport**|Lan Chen et.al.|[2611.01558](http://arxiv.org/abs/2611.01558)|null|
+|**2026-10-31**|**LoD-Loc v4: Towards Generalized Aerial Visual Localization via Panoptic LoD 3D Map Registration**|Shuaibang Peng et.al.|[2611.00704](http://arxiv.org/abs/2611.00704)|null|
 |**2026-10-30**|**PGGT-Loc: Primitive-Grounded Geometry Transformer for Feed-Forward Camera Localization**|Hanqiao Ye et.al.|[2610.41833](http://arxiv.org/abs/2610.41833)|null|
 |**2026-10-30**|**Queryable Gaussian View Index: Text Retrieval and Selective Camera Localization**|Tianyu Xiong et.al.|[2610.41373](http://arxiv.org/abs/2610.41373)|null|
 |**2026-10-29**|**Coupled or Independent? Fault Coupling in Agentic Medical Vision Systems**|Nishi Kanta Paul et.al.|[2610.40913](http://arxiv.org/abs/2610.40913)|null|
@@ -5643,7 +5656,7 @@
 |**2021-09-09**|**CrowdDriven: A New Challenging Dataset for Outdoor Visual Localization**|Ara Jafarzadeh et.al.|[2109.04527](http://arxiv.org/abs/2109.04527)|null|
 |**2021-09-09**|**Keeping an Eye on Things: Deep Learned Features for Long-Term Visual Localization**|Mona Gridseth et.al.|[2109.04041](http://arxiv.org/abs/2109.04041)|**[link](https://github.com/utiasasrl/deep_learned_visual_features)**|
 
-<p align=right>(<a href=#updated-on-20261102>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261103>back to top</a>)</p>
 
 ## Keypoint Detection
 
@@ -6219,12 +6232,14 @@
 |**2021-08-31**|**A Novel Dataset for Keypoint Detection of quadruped Animals from Images**|Prianka Banik et.al.|[2108.13958](http://arxiv.org/abs/2108.13958)|**[link](https://github.com/prinik/awa-pose)**|
 |**2021-08-27**|**A Matching Algorithm based on Image Attribute Transfer and Local Features for Underwater Acoustic and Optical Images**|Xiaoteng Zhou et.al.|[2108.12151](http://arxiv.org/abs/2108.12151)|null|
 
-<p align=right>(<a href=#updated-on-20261102>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261103>back to top</a>)</p>
 
 ## Image Matching
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-01**|**Accurate automated photo-identification of Near Eastern and European fire salamanders**|Maayan Yesharim et.al.|[2611.01601](http://arxiv.org/abs/2611.01601)|null|
+|**2026-10-30**|**A Generalized Sparse Fuzzy Clustering Framework with Automated Cluster Cardinality Estimation Ability**|George Stamatelis et.al.|[2611.00159](http://arxiv.org/abs/2611.00159)|null|
 |**2026-10-29**|**Luggage re-identification: A study of strategies towards a real-world application**|Quentin Dhôte et.al.|[2610.40643](http://arxiv.org/abs/2610.40643)|null|
 |**2026-10-29**|**Comprehensive empirical evaluation of feature extractors in computer vision**|Murat Isik et.al.|[2610.39551](http://arxiv.org/abs/2610.39551)|null|
 |**2026-10-28**|**Aligning Misaligned Benchmarks for Single-View Novel View Synthesis**|Yang-Che Tseng et.al.|[2610.38349](http://arxiv.org/abs/2610.38349)|null|
@@ -7634,12 +7649,15 @@
 |**2021-08-27**|**Matching Underwater Sonar Images by the Learned Descriptor Based on Style Transfer Method**|Xiaoteng Zhou et.al.|[2108.12072](http://arxiv.org/abs/2108.12072)|null|
 |**2021-08-26**|**Efficient Joint Object Matching via Linear Programming**|Antonio De Rosa et.al.|[2108.11911](http://arxiv.org/abs/2108.11911)|null|
 
-<p align=right>(<a href=#updated-on-20261102>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261103>back to top</a>)</p>
 
 ## NeRF
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-31**|**SHield: Watermarking 4D Gaussian Splatting via Spherical Harmonic Coefficient Perturbation**|Kunal Bhosikar et.al.|[2611.01162](http://arxiv.org/abs/2611.01162)|null|
+|**2026-10-31**|**3D Neural Rendering for Automated Ultrasonic Laser Scans**|Thomas Pierson et.al.|[2611.00527](http://arxiv.org/abs/2611.00527)|null|
+|**2026-10-30**|**MoRE-GS: Motion-Regime Experts for Future Gaussian Splatting**|Shima Salehi et.al.|[2611.00375](http://arxiv.org/abs/2611.00375)|null|
 |**2026-10-26**|**DimFlow: Bidirectional Grid-Expert Learning for Dynamic Gaussian Reconstruction**|Gabriel Adineera et.al.|[2610.34952](http://arxiv.org/abs/2610.34952)|null|
 |**2026-10-22**|**MVLoMa: Multi-View Local Feature Matching with Any Geometry Foundation Model**|Xinyang Lu et.al.|[2610.31321](http://arxiv.org/abs/2610.31321)|null|
 |**2026-10-22**|**GSHeadRelight: Fast Relightability for 3D Gaussian Head Synthesis**|Henglei Lv et.al.|[2610.30619](http://arxiv.org/abs/2610.30619)|null|
@@ -9559,7 +9577,7 @@
 |**2022-07-29**|**Neural Density-Distance Fields**|Itsuki Ueda et.al.|[2207.14455](http://arxiv.org/abs/2207.14455)|**[link](https://github.com/ueda0319/neddf)**|
 |**2022-07-27**|**Is Attention All NeRF Needs?**|Mukund Varma T et.al.|[2207.13298](http://arxiv.org/abs/2207.13298)|null|
 
-<p align=right>(<a href=#updated-on-20261102>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261103>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
