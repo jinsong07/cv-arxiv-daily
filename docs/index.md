@@ -2,13 +2,15 @@
 layout: default
 ---
 
-## Updated on 2026.11.05
+## Updated on 2026.11.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-05**|**An Integrated Open-Source Stack for Vision-Based Autonomous Navigation of Wheeled Rovers**|Iaroslav Kolomiets et.al.|[2611.08100](http://arxiv.org/abs/2611.08100)|null|
+|**2026-11-05**|**FREE-LIVO: Physically Decoupled Yet Tightly Coupled LiDAR-Inertial-Visual Odometry**|Reon Tabata et.al.|[2611.07463](http://arxiv.org/abs/2611.07463)|null|
 |**2026-11-04**|**Scale Anchoring via Implicit Semantics and Sequence-Consistent Loop Closure for VGGT-Based SLAM**|Ziyi Jin et.al.|[2611.06308](http://arxiv.org/abs/2611.06308)|null|
 |**2026-11-03**|**Auditing Targetless Camera-LiDAR Extrinsic Correction before Recursive Use**|Bo Ma et.al.|[2611.04397](http://arxiv.org/abs/2611.04397)|null|
 |**2026-11-03**|**EndoS3:Endoscopic Semantic Splatting SLAM**|Mona Sheikh Zeinoddin et.al.|[2611.04358](http://arxiv.org/abs/2611.04358)|null|
@@ -1503,6 +1505,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-05**|**Degree-Equalized View-Graph Selection under Tight Pair Budgets**|Minhyeok Im et.al.|[2611.07498](http://arxiv.org/abs/2611.07498)|null|
 |**2026-11-04**|**METRIC-GS: Selective Metric-Scale Estimation for 3D Gaussian Splatting**|Sooyeun Yang et.al.|[2611.06020](http://arxiv.org/abs/2611.06020)|null|
 |**2026-11-03**|**Visibility-Aware Reference Generation for Benchmarking Visual 3D Reconstruction in Vegetation-Rich Environments**|Zhipeng Zhong et.al.|[2611.05361](http://arxiv.org/abs/2611.05361)|null|
 |**2026-11-03**|**Sparse Anchors for Visual Multi-Session Registration in Changing Environments**|Yunus Talha Erzurumlu et.al.|[2611.05084](http://arxiv.org/abs/2611.05084)|null|
@@ -2590,7 +2593,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-11-04**|**DreamRealm: Exploring and Materializing Hallucination Worlds for Trustworthy Vision-Language Models**|Benlei Cui et.al.|[2611.06433](http://arxiv.org/abs/2611.06433)|null|
+|**2026-11-05**|**How Far Can Untrained Neural Networks Go in Anomaly Detection? From Tables to Pixels**|Hyojun Yi et.al.|[2611.08136](http://arxiv.org/abs/2611.08136)|null|
+|**2026-11-05**|**Towards Scalable Diagnostic-Driven Whole-Slide Image Retrieval for Pathology Archives**|Jingsong Liu et.al.|[2611.07935](http://arxiv.org/abs/2611.07935)|null|
+|**2026-11-05**|**Degree-Equalized View-Graph Selection under Tight Pair Budgets**|Minhyeok Im et.al.|[2611.07498](http://arxiv.org/abs/2611.07498)|null|
+|**2026-11-05**|**DreamRealm: Exploring and Materializing Hallucination Worlds for Trustworthy Vision-Language Models**|Benlei Cui et.al.|[2611.06433](http://arxiv.org/abs/2611.06433)|null|
 |**2026-11-04**|**UniLoop: Unified Loop Closure Detection from Retrieval to Geometric Verification and Relative Pose Estimation**|Jingwen Yu et.al.|[2611.06378](http://arxiv.org/abs/2611.06378)|null|
 |**2026-11-04**|**CAPE-JEPA - Cross-modal Adversarial Probabilistic Embedding JEPA**|Aniket Junghare et.al.|[2611.06247](http://arxiv.org/abs/2611.06247)|null|
 |**2026-11-03**|**Anchored Rank-Adversarial Fine-Tuning Pretrained Visual Place Recognition Models**|Mostafa Kira et.al.|[2611.05286](http://arxiv.org/abs/2611.05286)|null|
@@ -5664,6 +5670,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-05**|**GEKey: Learning Geodesic Eccentric 3D Keypoints via Self-Supervision**|Pierre Onghena et.al.|[2611.07677](http://arxiv.org/abs/2611.07677)|null|
 |**2026-10-29**|**InfantNet: A Large Scale Dataset for Infant Body Pose and Shape Estimation**|Zhipeng Hui et.al.|[2610.40467](http://arxiv.org/abs/2610.40467)|null|
 |**2026-10-15**|**Teaching DINOv3 About Partial 3D Geometry: A Self-Supervised Geometry-Aware Approach**|Viktoria Ehm et.al.|[2610.21802](http://arxiv.org/abs/2610.21802)|null|
 |**2026-10-12**|**Towards Complementary Keypoint Detection via Mixture of Detectors**|Xiaoyong Lu et.al.|[2610.16762](http://arxiv.org/abs/2610.16762)|null|
@@ -6238,6 +6245,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-05**|**USB Gym: A Gymnasium Testbed for Closed-Loop Ultrasound View Matching**|Thanapong Intharah et.al.|[2611.08352](http://arxiv.org/abs/2611.08352)|null|
 |**2026-11-03**|**Sparse Anchors for Visual Multi-Session Registration in Changing Environments**|Yunus Talha Erzurumlu et.al.|[2611.05084](http://arxiv.org/abs/2611.05084)|null|
 |**2026-11-03**|**Manifold Embedding of Deep Image Features for Image Matching via Neural Adjoint Maps**|Nafie El Amrani et.al.|[2611.05083](http://arxiv.org/abs/2611.05083)|null|
 |**2026-11-01**|**Accurate automated photo-identification of Near Eastern and European fire salamanders**|Maayan Yesharim et.al.|[2611.01601](http://arxiv.org/abs/2611.01601)|null|
@@ -7655,6 +7663,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-05**|**Hierarchical Incremental Beta Splatting for Online Reconstruction**|Linus Franke et.al.|[2611.08288](http://arxiv.org/abs/2611.08288)|null|
+|**2026-11-04**|**T $^2$ -Splat: Adaptive Topology Mesh Splatting with Texture Residuals**|Zhihao Tang et.al.|[2611.06974](http://arxiv.org/abs/2611.06974)|null|
 |**2026-11-04**|**Feature Puzzles: Single-Image Supervision for Multi-View 3D-Aware Segmentation**|Jiahao Ma et.al.|[2611.05874](http://arxiv.org/abs/2611.05874)|null|
 |**2026-10-31**|**SHield: Watermarking 4D Gaussian Splatting via Spherical Harmonic Coefficient Perturbation**|Kunal Bhosikar et.al.|[2611.01162](http://arxiv.org/abs/2611.01162)|null|
 |**2026-10-31**|**3D Neural Rendering for Automated Ultrasonic Laser Scans**|Thomas Pierson et.al.|[2611.00527](http://arxiv.org/abs/2611.00527)|null|
