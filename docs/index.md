@@ -2,13 +2,20 @@
 layout: default
 ---
 
-## Updated on 2026.11.09
+## Updated on 2026.11.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-09**|**V3DSAM: Semantic-Geometric Loop Verification and Geometry-Anchored Persistent Instance Mapping for Feed-Forward Dense SLAM**|Maolin Ye et.al.|[2611.12452](http://arxiv.org/abs/2611.12452)|null|
+|**2026-11-09**|**DPGS-SLAM: Diffusion-Prior and Provenance-Aware Monocular Gaussian Splatting SLAM for Dynamic Visual Sensing**|Yifan Luo et.al.|[2611.12038](http://arxiv.org/abs/2611.12038)|null|
+|**2026-11-09**|**Scale-Consistent Monocular Fisheye Visual Odometry via Spherical Bundle Adjustment-Guided Unsupervised Depth Learning**|Wanhui Luo et.al.|[2611.11934](http://arxiv.org/abs/2611.11934)|null|
+|**2026-11-09**|**Prop-WRF: Proposal-Guided Wireless Radiance Field for Scalable Multi-Frequency Outdoor Channel Frequency Response Prediction**|Yulin Fu et.al.|[2611.11845](http://arxiv.org/abs/2611.11845)|null|
+|**2026-11-09**|**ACROSSVAM3.0: Resource-Bounded 4D Scene Construction and Adaptive Surface Association**|Nan Wu et.al.|[2611.11825](http://arxiv.org/abs/2611.11825)|null|
+|**2026-11-08**|**Map2SLAM: From Streaming Map Prediction to Real-Time SLAM**|Jian Gao et.al.|[2611.11169](http://arxiv.org/abs/2611.11169)|null|
+|**2026-11-06**|**DASH-SLAM: Calibration-Free Metric Monocular SLAM via Depth Scale Propagation**|Otavio Ribas et.al.|[2611.10239](http://arxiv.org/abs/2611.10239)|null|
 |**2026-11-05**|**An Integrated Open-Source Stack for Vision-Based Autonomous Navigation of Wheeled Rovers**|Iaroslav Kolomiets et.al.|[2611.08100](http://arxiv.org/abs/2611.08100)|null|
 |**2026-11-05**|**FREE-LIVO: Physically Decoupled Yet Tightly Coupled LiDAR-Inertial-Visual Odometry**|Reon Tabata et.al.|[2611.07463](http://arxiv.org/abs/2611.07463)|null|
 |**2026-11-04**|**Scale Anchoring via Implicit Semantics and Sequence-Consistent Loop Closure for VGGT-Based SLAM**|Ziyi Jin et.al.|[2611.06308](http://arxiv.org/abs/2611.06308)|null|
@@ -1505,6 +1512,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-09**|**Budget-aware Correspondence-driven View Selection for Real-time 3D Perception of Mobile Robots**|Vaishnav Ramesh et.al.|[2611.11809](http://arxiv.org/abs/2611.11809)|null|
+|**2026-11-09**|**Towards Rotation-Only Imaging Geometry: Multi-View Pose Estimation**|Xinrui Li et.al.|[2611.11770](http://arxiv.org/abs/2611.11770)|null|
+|**2026-11-07**|**VAComp: View-Aware Full Projector Compensation**|Kai Zhou et.al.|[2611.10637](http://arxiv.org/abs/2611.10637)|null|
+|**2026-11-06**|**OfficeTwin: Realizing 3D Reconstruction of Redundant Scenes through Partial Viewpoint Perception**|Quanyun Wu et.al.|[2611.10241](http://arxiv.org/abs/2611.10241)|null|
 |**2026-11-05**|**Degree-Equalized View-Graph Selection under Tight Pair Budgets**|Minhyeok Im et.al.|[2611.07498](http://arxiv.org/abs/2611.07498)|null|
 |**2026-11-04**|**METRIC-GS: Selective Metric-Scale Estimation for 3D Gaussian Splatting**|Sooyeun Yang et.al.|[2611.06020](http://arxiv.org/abs/2611.06020)|null|
 |**2026-11-03**|**Visibility-Aware Reference Generation for Benchmarking Visual 3D Reconstruction in Vegetation-Rich Environments**|Zhipeng Zhong et.al.|[2611.05361](http://arxiv.org/abs/2611.05361)|null|
@@ -2593,10 +2604,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-09**|**Complementarity-Driven Dual-Teacher Hierarchical Alignment for Zero-Shot EEG-to-Image Retrieval**|Lukun Wu et.al.|[2611.12798](http://arxiv.org/abs/2611.12798)|null|
 |**2026-11-06**|**CRTrack-Cap: A New Benchmark for Cross-View Dense Video Object Captioning**|Xiangqun Zhang et.al.|[2611.09617](http://arxiv.org/abs/2611.09617)|null|
-|**2026-11-06**|**Look Closer, Align Better: Explicit Visual Attributes for Robust EEG-to-Image Decoding**|Ke Xiao et.al.|[2611.09123](http://arxiv.org/abs/2611.09123)|null|
+|**2026-11-09**|**Look Closer, Align Better: Explicit Visual Attributes for Robust EEG-to-Image Decoding**|Ke Xiao et.al.|[2611.09123](http://arxiv.org/abs/2611.09123)|null|
 |**2026-11-06**|**MetricPose: Flexible 3D Human Pose Estimation with Depth and Geometric Cues**|Shifan Zhu et.al.|[2611.08954](http://arxiv.org/abs/2611.08954)|null|
-|**2026-11-05**|**How Far Can Untrained Neural Networks Go in Anomaly Detection? From Tables to Pixels**|Hyojun Yi et.al.|[2611.08136](http://arxiv.org/abs/2611.08136)|null|
+|**2026-11-09**|**How Far Can Untrained Neural Networks Go in Anomaly Detection? From Tables to Pixels**|Hyojun Yi et.al.|[2611.08136](http://arxiv.org/abs/2611.08136)|null|
 |**2026-11-05**|**Towards Scalable Diagnostic-Driven Whole-Slide Image Retrieval for Pathology Archives**|Jingsong Liu et.al.|[2611.07935](http://arxiv.org/abs/2611.07935)|null|
 |**2026-11-05**|**Degree-Equalized View-Graph Selection under Tight Pair Budgets**|Minhyeok Im et.al.|[2611.07498](http://arxiv.org/abs/2611.07498)|null|
 |**2026-11-05**|**DreamRealm: Exploring and Materializing Hallucination Worlds for Trustworthy Vision-Language Models**|Benlei Cui et.al.|[2611.06433](http://arxiv.org/abs/2611.06433)|null|
@@ -6249,6 +6261,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-06**|**OfficeTwin: Realizing 3D Reconstruction of Redundant Scenes through Partial Viewpoint Perception**|Quanyun Wu et.al.|[2611.10241](http://arxiv.org/abs/2611.10241)|null|
 |**2026-11-05**|**Federated training performs as well as centralized for 3D Latent Diffusion for Diagnosis-Conditioned Brain MRI Synthesis**|Abhijith Shaji et.al.|[2611.08771](http://arxiv.org/abs/2611.08771)|null|
 |**2026-11-05**|**USB Gym: A Gymnasium Testbed for Closed-Loop Ultrasound View Matching**|Thanapong Intharah et.al.|[2611.08352](http://arxiv.org/abs/2611.08352)|null|
 |**2026-11-03**|**Sparse Anchors for Visual Multi-Session Registration in Changing Environments**|Yunus Talha Erzurumlu et.al.|[2611.05084](http://arxiv.org/abs/2611.05084)|null|
@@ -7668,6 +7681,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-07**|**VAComp: View-Aware Full Projector Compensation**|Kai Zhou et.al.|[2611.10637](http://arxiv.org/abs/2611.10637)|null|
+|**2026-11-07**|**Scaling Optimization-Oriented Hypernetworks for Implicit Neural Representations**|Lulu Cai et.al.|[2611.10509](http://arxiv.org/abs/2611.10509)|null|
+|**2026-11-06**|**RigidGS: Geometry-Aware Object Decoupling for Rigid-Body Interaction in 3D Gaussian Splatting**|Paul Sansah Gyreyiri et.al.|[2611.10199](http://arxiv.org/abs/2611.10199)|null|
 |**2026-11-05**|**Hierarchical Incremental Beta Splatting for Online Reconstruction**|Linus Franke et.al.|[2611.08288](http://arxiv.org/abs/2611.08288)|null|
 |**2026-11-04**|**T $^2$ -Splat: Adaptive Topology Mesh Splatting with Texture Residuals**|Zhihao Tang et.al.|[2611.06974](http://arxiv.org/abs/2611.06974)|null|
 |**2026-11-04**|**Feature Puzzles: Single-Image Supervision for Multi-View 3D-Aware Segmentation**|Jiahao Ma et.al.|[2611.05874](http://arxiv.org/abs/2611.05874)|null|
