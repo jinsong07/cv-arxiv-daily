@@ -2,13 +2,18 @@
 layout: default
 ---
 
-## Updated on 2026.11.17
+## Updated on 2026.11.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-17**|**Pressure Drop: Gravity Vector Estimation from a Distributed Barometric Pressure Sensor Array**|William Dubois et.al.|[2611.23120](http://arxiv.org/abs/2611.23120)|null|
+|**2026-11-17**|**Technical Report of Mobile Manipulator Robot for Industrial Environments**|Aria Dadnavi et.al.|[2611.22852](http://arxiv.org/abs/2611.22852)|null|
+|**2026-11-17**|**DGV-DLIVO: Degeneracy-Guided Visual Fusion for Direct LiDAR-Inertial-Visual Odometry in Degenerate Tunnel Environments**|Junrui Zhang et.al.|[2611.22385](http://arxiv.org/abs/2611.22385)|null|
+|**2026-11-17**|**CoSphere-SLAM: Multi-Agent Panoramic Gaussian Splatting SLAM with Spherical Loop Closure**|Qi Shao et.al.|[2611.22235](http://arxiv.org/abs/2611.22235)|null|
+|**2026-11-17**|**SE(3)-LIVOM: Adaptive Multi-LiDAR-Inertial-Visual Odometry and Mapping**|Gunhee Shin et.al.|[2611.22047](http://arxiv.org/abs/2611.22047)|null|
 |**2026-11-16**|**WinDEX: Metric 3D Hand Motion Reconstruction in the Wild for Dexterous Teleoperation and Policy Learning**|Hongyu Ma et.al.|[2611.21143](http://arxiv.org/abs/2611.21143)|null|
 |**2026-11-16**|**Improving Radio SLAM via Information Sharing: Collaborative Performance Bounds**|Radovan Juran et.al.|[2611.20925](http://arxiv.org/abs/2611.20925)|null|
 |**2026-11-16**|**OrthoMark: Place Recognition with Point-Anchored Orthographic Height Mark**|Haichuan Li et.al.|[2611.20570](http://arxiv.org/abs/2611.20570)|null|
@@ -1523,6 +1528,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-17**|**Refin3R: Geometry-Guided Refinement for Feed-Forward 3D Reconstruction**|Jongmin Lee et.al.|[2611.23051](http://arxiv.org/abs/2611.23051)|null|
 |**2026-11-16**|**Pointillist Maize: 3D Reconstruction of Field-Grown Maize Using RGB UAV Imagery**|Dewi Endah Kharismawati et.al.|[2611.20502](http://arxiv.org/abs/2611.20502)|null|
 |**2026-11-15**|**Remember, Replay, Adapt: Learning from Past Experience in Online Vision-and-Language Navigation**|Chenhao Ding et.al.|[2611.19901](http://arxiv.org/abs/2611.19901)|null|
 |**2026-11-13**|**Interpreting JWST UV luminosity functions and angular correlation functions via a "universal language" for high-redshift galaxies**|Ivan Nikolić et.al.|[2611.18850](http://arxiv.org/abs/2611.18850)|null|
@@ -2619,6 +2625,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-17**|**PeriaTrace: Tooth-Level Grounding Diagnosis and Patient-Facing Explanations from Periapical Radiographs**|Zhenhuan Zhou et.al.|[2611.23012](http://arxiv.org/abs/2611.23012)|null|
+|**2026-11-17**|**EfficientVPR: Toward Efficient Visual Place Recognition via Scene-Aware Prompt Tuning and Adaptive Feature Enhancement**|Wenjing Tang et.al.|[2611.22506](http://arxiv.org/abs/2611.22506)|null|
+|**2026-11-17**|**LoCaR: Localized Canvas Retrieval With Frozen Vision-Language Model**|Rahim Hossain et.al.|[2611.22131](http://arxiv.org/abs/2611.22131)|null|
+|**2026-11-16**|**Beyond Appearance: Where Forest Visual Place Recognition Actually Fails**|Blake Matheson et.al.|[2611.21996](http://arxiv.org/abs/2611.21996)|null|
 |**2026-11-16**|**Polygraph: Large-Scale Multi-Session Trajectory Optimization using Pose Graphs**|Petar Lukovic et.al.|[2611.21163](http://arxiv.org/abs/2611.21163)|null|
 |**2026-11-12**|**Few-Shot Cross-Subject Neural--Image Retrieval via Stimulus-Anchored Latent Bias Calibration**|Xizhang Yao et.al.|[2611.16257](http://arxiv.org/abs/2611.16257)|null|
 |**2026-11-10**|**RS-JEPA: Remote Sensing Joint-Embedding Predictive Architecture with Scan-Path Views for Cross-Sensor Image Retrieval**|Tanishq Rachamalla et.al.|[2611.14496](http://arxiv.org/abs/2611.14496)|null|
@@ -6289,6 +6299,7 @@ layout: default
 |**2026-11-01**|**Accurate automated photo-identification of Near Eastern and European fire salamanders**|Maayan Yesharim et.al.|[2611.01601](http://arxiv.org/abs/2611.01601)|null|
 |**2026-10-30**|**A Generalized Sparse Fuzzy Clustering Framework with Automated Cluster Cardinality Estimation Ability**|George Stamatelis et.al.|[2611.00159](http://arxiv.org/abs/2611.00159)|null|
 |**2026-10-29**|**Luggage re-identification: A study of strategies towards a real-world application**|Quentin Dhôte et.al.|[2610.40643](http://arxiv.org/abs/2610.40643)|null|
+|**2026-11-17**|**Automated open-set multi-view seahorse re-identification from underwater photograph sequences**|Tristan Fauvel et.al.|[2610.39857](http://arxiv.org/abs/2610.39857)|null|
 |**2026-10-29**|**Comprehensive empirical evaluation of feature extractors in computer vision**|Murat Isik et.al.|[2610.39551](http://arxiv.org/abs/2610.39551)|null|
 |**2026-10-28**|**Aligning Misaligned Benchmarks for Single-View Novel View Synthesis**|Yang-Che Tseng et.al.|[2610.38349](http://arxiv.org/abs/2610.38349)|null|
 |**2026-10-23**|**ACVA-Bench: Beyond Prompt Following in Abstract Concept Visualization Ability for Text-to-Image Models**|Mengyan Wang et.al.|[2610.32058](http://arxiv.org/abs/2610.32058)|null|
