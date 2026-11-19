@@ -2,13 +2,16 @@
 layout: default
 ---
 
-## Updated on 2026.11.18
+## Updated on 2026.11.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-18**|**Induction Head Origins of SLAM-ASR Speech Recognition Models**|Artem Fedorchenko et.al.|[2611.24721](http://arxiv.org/abs/2611.24721)|null|
+|**2026-11-18**|**Proprioceptive Simultaneous Base and Terrain Elevation Estimation for Legged Robot Locomotion**|Michael Maravgakis et.al.|[2611.24310](http://arxiv.org/abs/2611.24310)|null|
+|**2026-11-18**|**Facet-SLAM: Real-Time Triangle Splatting SLAM**|Edward Beng Wai Tan et.al.|[2611.23935](http://arxiv.org/abs/2611.23935)|null|
 |**2026-11-17**|**Pressure Drop: Gravity Vector Estimation from a Distributed Barometric Pressure Sensor Array**|William Dubois et.al.|[2611.23120](http://arxiv.org/abs/2611.23120)|null|
 |**2026-11-17**|**Technical Report of Mobile Manipulator Robot for Industrial Environments**|Aria Dadnavi et.al.|[2611.22852](http://arxiv.org/abs/2611.22852)|null|
 |**2026-11-17**|**DGV-DLIVO: Degeneracy-Guided Visual Fusion for Direct LiDAR-Inertial-Visual Odometry in Degenerate Tunnel Environments**|Junrui Zhang et.al.|[2611.22385](http://arxiv.org/abs/2611.22385)|null|
@@ -2625,6 +2628,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-18**|**CHORUS: Cross-Subject Harmonization via Population Relay for Unseen Subjects in Brain Visual Decoding**|Jiayu Zuo et.al.|[2611.24364](http://arxiv.org/abs/2611.24364)|null|
+|**2026-11-18**|**Stabilizing Neural-to-Image Retrieval with Frequency-Domain Priors and Adaptive Supervision**|YaoYang Liu et.al.|[2611.24163](http://arxiv.org/abs/2611.24163)|null|
+|**2026-11-18**|**Benchmarking Reasoning Reliability,Prior_Evidence Contrast,and Spectral Discrimination in Remote-Sensing Geological Image Interpretation**|Jun Wang et.al.|[2611.24068](http://arxiv.org/abs/2611.24068)|null|
+|**2026-11-18**|**SIRAZ: Sparse Inter-Layer Residual Aggregation for Zero-Shot Visual Neural Decoding**| Neha et.al.|[2611.23991](http://arxiv.org/abs/2611.23991)|null|
+|**2026-11-17**|**Bits, Not Boxes: Label-Free Layer Selection for Visual Localization in VLMs**|Haisheng Fu et.al.|[2611.23432](http://arxiv.org/abs/2611.23432)|null|
 |**2026-11-17**|**PeriaTrace: Tooth-Level Grounding Diagnosis and Patient-Facing Explanations from Periapical Radiographs**|Zhenhuan Zhou et.al.|[2611.23012](http://arxiv.org/abs/2611.23012)|null|
 |**2026-11-17**|**EfficientVPR: Toward Efficient Visual Place Recognition via Scene-Aware Prompt Tuning and Adaptive Feature Enhancement**|Wenjing Tang et.al.|[2611.22506](http://arxiv.org/abs/2611.22506)|null|
 |**2026-11-17**|**LoCaR: Localized Canvas Retrieval With Frozen Vision-Language Model**|Rahim Hossain et.al.|[2611.22131](http://arxiv.org/abs/2611.22131)|null|
@@ -7712,6 +7720,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-17**|**NIRJALA: Draining the Sea out of Gaussian Splatting with Three-Path Optics and Reversible Physics**|Latchan Chhetri et.al.|[2611.23450](http://arxiv.org/abs/2611.23450)|null|
 |**2026-11-16**|**QuantileGS: Quantile-Based Conformal Bounds on RGB Rendering Errors for Novel View Synthesis with 3D Gaussian Splatting**|Haiyang Xu et.al.|[2611.21253](http://arxiv.org/abs/2611.21253)|null|
 |**2026-11-06**|**TopSDF: Topological Signed Distance Field for High-Quality Triangle Mesh Extraction from 3D Gaussian Splatting**|Khoi Do et.al.|[2611.18708](http://arxiv.org/abs/2611.18708)|null|
 |**2026-11-11**|**MatrixSplat: Matrix-Parallel and Feature-Scalable 3D Gaussian Splatting Rendering on GPUs**|Yangming Zhang et.al.|[2611.15153](http://arxiv.org/abs/2611.15153)|null|
