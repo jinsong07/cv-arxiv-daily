@@ -2653,7 +2653,7 @@
 |**2026-11-18**|**CHORUS: Cross-Subject Harmonization via Population Relay for Unseen Subjects in Brain Visual Decoding**|Jiayu Zuo et.al.|[2611.24364](http://arxiv.org/abs/2611.24364)|null|
 |**2026-11-18**|**Stabilizing Neural-to-Image Retrieval with Frequency-Domain Priors and Adaptive Supervision**|YaoYang Liu et.al.|[2611.24163](http://arxiv.org/abs/2611.24163)|null|
 |**2026-11-18**|**Benchmarking Reasoning Reliability,Prior_Evidence Contrast,and Spectral Discrimination in Remote-Sensing Geological Image Interpretation**|Jun Wang et.al.|[2611.24068](http://arxiv.org/abs/2611.24068)|null|
-|**2026-11-18**|**SIRAZ: Sparse Inter-Layer Residual Aggregation for Zero-Shot Visual Neural Decoding**| Neha et.al.|[2611.23991](http://arxiv.org/abs/2611.23991)|null|
+|**2026-11-18**|**SIRAZ: Sparse Inter-Layer Residual Aggregation for Zero-Shot Visual Neural Decoding**|Neha et.al.|[2611.23991](http://arxiv.org/abs/2611.23991)|null|
 |**2026-11-17**|**Bits, Not Boxes: Label-Free Layer Selection for Visual Localization in VLMs**|Haisheng Fu et.al.|[2611.23432](http://arxiv.org/abs/2611.23432)|null|
 |**2026-11-17**|**PeriaTrace: Tooth-Level Grounding Diagnosis and Patient-Facing Explanations from Periapical Radiographs**|Zhenhuan Zhou et.al.|[2611.23012](http://arxiv.org/abs/2611.23012)|null|
 |**2026-11-17**|**EfficientVPR: Toward Efficient Visual Place Recognition via Scene-Aware Prompt Tuning and Adaptive Feature Enhancement**|Wenjing Tang et.al.|[2611.22506](http://arxiv.org/abs/2611.22506)|null|
