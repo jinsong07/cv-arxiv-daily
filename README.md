@@ -1,4 +1,4 @@
-## Updated on 2026.11.23
+## Updated on 2026.11.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -17,6 +17,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-23**|**OmniSLAM: Evidence-Authorized Revision of Persistent Object Maps**|Haoxiang Jie et.al.|[2611.30184](http://arxiv.org/abs/2611.30184)|null|
+|**2026-11-23**|**Confidently Lost: Silent Failure and Edge Deployment of Dense Visual SLAM under Photon Starvation**|Shrikrishna Bhagirath Rajule et.al.|[2611.30173](http://arxiv.org/abs/2611.30173)|null|
+|**2026-11-22**|**GravHMR: Coupling SLAM and Human Mesh Recovery in a Shared Gravity Frame**|Hanglei Jin et.al.|[2611.29614](http://arxiv.org/abs/2611.29614)|null|
 |**2026-11-20**|**BRINA: Bottom-Referenced Inertial Navigation with AKAZE, a Sonar SLAM for Autonomous Marine Vehicles**|Adolfo Damiano Cafaro et.al.|[2611.27817](http://arxiv.org/abs/2611.27817)|null|
 |**2026-11-20**|**Instant-LIVO: Efficient LiDAR-Inertial-Visual Odometry with Compact Geometry and a Bounded Single-Reference-Frame Map**|Xinrui Wang et.al.|[2611.27633](http://arxiv.org/abs/2611.27633)|null|
 |**2026-11-20**|**EgoSurgHands: An Egocentric 3D Hand Pose Dataset & Benchmark for Open Surgery Training**|Ankit Pal et.al.|[2611.27101](http://arxiv.org/abs/2611.27101)|null|
@@ -1541,12 +1544,13 @@
 |**2021-10-03**|**Quadrotor Control on $SU(2)\times R^3$ with SLAM Integration**|Marcus Greiff et.al.|[2110.01099](http://arxiv.org/abs/2110.01099)|null|
 |**2021-10-02**|**Online Incremental Non-Gaussian Inference for SLAM Using Normalizing Flows**|Qiangqiang Huang et.al.|[2110.00876](http://arxiv.org/abs/2110.00876)|**[link](https://github.com/marineroboticsgroup/nf-isam)**|
 
-<p align=right>(<a href=#updated-on-20261123>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261124>back to top</a>)</p>
 
 ## SFM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-23**|**Screening for nonrigidity in structure from motion using projected reprojection residuals**|Íñigo Cirauqui-Viloria et.al.|[2611.30769](http://arxiv.org/abs/2611.30769)|null|
 |**2026-11-19**|**SGAR: Feed-Forward 3D Reconstruction via Sparse Geometry-Guided Attention**|Aoxiang Fan et.al.|[2611.26493](http://arxiv.org/abs/2611.26493)|null|
 |**2026-11-19**|**Reference-Twist-Based Velocity-Domain Spatiotemporal Calibration for mmWave Radar, Event Camera, and IMU**|Zhenghao Zou et.al.|[2611.26083](http://arxiv.org/abs/2611.26083)|null|
 |**2026-11-17**|**Refin3R: Geometry-Guided Refinement for Feed-Forward 3D Reconstruction**|Jongmin Lee et.al.|[2611.23051](http://arxiv.org/abs/2611.23051)|null|
@@ -2642,18 +2646,22 @@
 |**2021-08-29**|**Solving Viewing Graph Optimization for Simultaneous Position and Rotation Registration**|Seyed-Mahdi Nasiri et.al.|[2108.12876](http://arxiv.org/abs/2108.12876)|null|
 |**2021-08-23**|**Burst Imaging for Light-Constrained Structure-From-Motion**|Ahalya Ravendran et.al.|[2108.09895](http://arxiv.org/abs/2108.09895)|null|
 
-<p align=right>(<a href=#updated-on-20261123>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261124>back to top</a>)</p>
 
 ## Visual Localization
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2026-11-20**|**PaMuk-Bench: A Parallel Multilingual Multitask Benchmark for Vision-Language Tasks**|Silviu-Florin Gheorghe et.al.|[2611.27521](http://arxiv.org/abs/2611.27521)|null|
+|**2026-11-23**|**RigidAnchor: Cross-View Geo-Localization for UAV via Iterative Planar Rigid Alignment**|Bo Wang et.al.|[2611.30278](http://arxiv.org/abs/2611.30278)|null|
+|**2026-11-22**|**STAGE: Structured Test-Time Adaptation with Global Entropic Soft-coupling for Cross-Subject Brain-to-Image Retrieval**|Yihang Zou et.al.|[2611.29538](http://arxiv.org/abs/2611.29538)|null|
+|**2026-11-22**|**GraphSeer: Multimodal Knowledge Graph Relational Image Retrieval with MLLMs**|Linyu Li et.al.|[2611.29470](http://arxiv.org/abs/2611.29470)|null|
+|**2026-11-21**|**Beyond Full-Context Accuracy: Context-Marginalized Evaluation of Test-Time Structure-Aware Inference in EEG-to-Image Retrieval**|Ke Xiao et.al.|[2611.28648](http://arxiv.org/abs/2611.28648)|null|
+|**2026-11-23**|**PaMuk-Bench: A Parallel Multilingual Multitask Benchmark for Vision-Language Tasks**|Silviu-Florin Gheorghe et.al.|[2611.27521](http://arxiv.org/abs/2611.27521)|null|
 |**2026-11-19**|**A Task-Level Bias Taxonomy for Historical Image Retrieval**|Omkar Gavali et.al.|[2611.26019](http://arxiv.org/abs/2611.26019)|null|
 |**2026-11-18**|**CHORUS: Cross-Subject Harmonization via Population Relay for Unseen Subjects in Brain Visual Decoding**|Jiayu Zuo et.al.|[2611.24364](http://arxiv.org/abs/2611.24364)|null|
 |**2026-11-18**|**Stabilizing Neural-to-Image Retrieval with Frequency-Domain Priors and Adaptive Supervision**|YaoYang Liu et.al.|[2611.24163](http://arxiv.org/abs/2611.24163)|null|
 |**2026-11-18**|**Benchmarking Reasoning Reliability,Prior_Evidence Contrast,and Spectral Discrimination in Remote-Sensing Geological Image Interpretation**|Jun Wang et.al.|[2611.24068](http://arxiv.org/abs/2611.24068)|null|
-|**2026-11-18**|**SIRAZ: Sparse Inter-Layer Residual Aggregation for Zero-Shot Visual Neural Decoding**|Neha et.al.|[2611.23991](http://arxiv.org/abs/2611.23991)|null|
+|**2026-11-23**|**SIRAZ: Sparse Inter-Layer Residual Aggregation for Zero-Shot Visual Neural Decoding**| Neha et.al.|[2611.23991](http://arxiv.org/abs/2611.23991)|null|
 |**2026-11-17**|**Bits, Not Boxes: Label-Free Layer Selection for Visual Localization in VLMs**|Haisheng Fu et.al.|[2611.23432](http://arxiv.org/abs/2611.23432)|null|
 |**2026-11-17**|**PeriaTrace: Tooth-Level Grounding Diagnosis and Patient-Facing Explanations from Periapical Radiographs**|Zhenhuan Zhou et.al.|[2611.23012](http://arxiv.org/abs/2611.23012)|null|
 |**2026-11-17**|**EfficientVPR: Toward Efficient Visual Place Recognition via Scene-Aware Prompt Tuning and Adaptive Feature Enhancement**|Wenjing Tang et.al.|[2611.22506](http://arxiv.org/abs/2611.22506)|null|
@@ -5740,7 +5748,7 @@
 |**2021-09-09**|**CrowdDriven: A New Challenging Dataset for Outdoor Visual Localization**|Ara Jafarzadeh et.al.|[2109.04527](http://arxiv.org/abs/2109.04527)|null|
 |**2021-09-09**|**Keeping an Eye on Things: Deep Learned Features for Long-Term Visual Localization**|Mona Gridseth et.al.|[2109.04041](http://arxiv.org/abs/2109.04041)|**[link](https://github.com/utiasasrl/deep_learned_visual_features)**|
 
-<p align=right>(<a href=#updated-on-20261123>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261124>back to top</a>)</p>
 
 ## Keypoint Detection
 
@@ -6319,12 +6327,13 @@
 |**2021-08-31**|**A Novel Dataset for Keypoint Detection of quadruped Animals from Images**|Prianka Banik et.al.|[2108.13958](http://arxiv.org/abs/2108.13958)|**[link](https://github.com/prinik/awa-pose)**|
 |**2021-08-27**|**A Matching Algorithm based on Image Attribute Transfer and Local Features for Underwater Acoustic and Optical Images**|Xiaoteng Zhou et.al.|[2108.12151](http://arxiv.org/abs/2108.12151)|null|
 
-<p align=right>(<a href=#updated-on-20261123>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261124>back to top</a>)</p>
 
 ## Image Matching
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-22**|**Separating Action Allocation from Image Matching in Visual Token Routing**|Chenxi Wang et.al.|[2611.29477](http://arxiv.org/abs/2611.29477)|null|
 |**2026-11-20**|**Which Dwarf Is This? Doppeldwarf-306 and Near-Identical Instance Retrieval**|Turhan Can Kargin et.al.|[2611.27490](http://arxiv.org/abs/2611.27490)|null|
 |**2026-11-19**|**LBW-NPS: A Local Band-Weighted Noise Power Spectrum Loss for Texture-Preserving Low-Dose CT Denoising**|Fatma Elif Yalçındağ et.al.|[2611.25548](http://arxiv.org/abs/2611.25548)|null|
 |**2026-11-15**|**Mock Observations: Morphological Analysis of Galactic Bars in IllustrisTNG Simulations**|Jun-Yu Gong et.al.|[2611.19884](http://arxiv.org/abs/2611.19884)|null|
@@ -7745,7 +7754,7 @@
 |**2021-08-27**|**Matching Underwater Sonar Images by the Learned Descriptor Based on Style Transfer Method**|Xiaoteng Zhou et.al.|[2108.12072](http://arxiv.org/abs/2108.12072)|null|
 |**2021-08-26**|**Efficient Joint Object Matching via Linear Programming**|Antonio De Rosa et.al.|[2108.11911](http://arxiv.org/abs/2108.11911)|null|
 
-<p align=right>(<a href=#updated-on-20261123>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261124>back to top</a>)</p>
 
 ## NeRF
 
@@ -9690,7 +9699,7 @@
 |**2022-07-29**|**Neural Density-Distance Fields**|Itsuki Ueda et.al.|[2207.14455](http://arxiv.org/abs/2207.14455)|**[link](https://github.com/ueda0319/neddf)**|
 |**2022-07-27**|**Is Attention All NeRF Needs?**|Mukund Varma T et.al.|[2207.13298](http://arxiv.org/abs/2207.13298)|null|
 
-<p align=right>(<a href=#updated-on-20261123>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261124>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
