@@ -2,13 +2,19 @@
 layout: default
 ---
 
-## Updated on 2026.11.24
+## Updated on 2026.11.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-24**|**SpatialArena: Where Do Geometric Foundation Models Stand?**|Yu Chen et.al.|[2611.32816](http://arxiv.org/abs/2611.32816)|null|
+|**2026-11-24**|**Seeing to Drive on a Single Board: Attention-Free Depth for Onboard Robot Navigation**|Itai Mizlish et.al.|[2611.32718](http://arxiv.org/abs/2611.32718)|null|
+|**2026-11-24**|**AirLeg: A Robust and Accurate Self-Supervised Visual-Inertial-Leg SLAM System**|Kuan Xu et.al.|[2611.32523](http://arxiv.org/abs/2611.32523)|null|
+|**2026-11-24**|**ROVO: Robust Rotation-Only Visual Odometry for UAVs at Low and Moderate Altitudes**|Xiaokai Song et.al.|[2611.32475](http://arxiv.org/abs/2611.32475)|null|
+|**2026-11-24**|**GOLD-SLAM: Gaussian-splatting Omnidirectional LiDAR-Depth SLAM**|Weicong Zhang et.al.|[2611.32335](http://arxiv.org/abs/2611.32335)|null|
+|**2026-11-24**|**View Management with Gaussian Placement and Opacity Regularization for Online 3DGS**|Dong Hwi Kim et.al.|[2611.32025](http://arxiv.org/abs/2611.32025)|null|
 |**2026-11-23**|**OmniSLAM: Evidence-Authorized Revision of Persistent Object Maps**|Haoxiang Jie et.al.|[2611.30184](http://arxiv.org/abs/2611.30184)|null|
 |**2026-11-23**|**Confidently Lost: Silent Failure and Edge Deployment of Dense Visual SLAM under Photon Starvation**|Shrikrishna Bhagirath Rajule et.al.|[2611.30173](http://arxiv.org/abs/2611.30173)|null|
 |**2026-11-22**|**GravHMR: Coupling SLAM and Human Mesh Recovery in a Shared Gravity Frame**|Hanglei Jin et.al.|[2611.29614](http://arxiv.org/abs/2611.29614)|null|
@@ -1540,6 +1546,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-24**|**ST-SfM: Spatio-Temporal Structure-from-Motion for Initialising 4D Gaussian Splatting**| Harshit et.al.|[2611.32231](http://arxiv.org/abs/2611.32231)|null|
+|**2026-11-23**|**InitFree-SfM: When Initialization-Free Bundle Adjustment meets Learned Structure-from-Motion**|Simon Weber et.al.|[2611.31516](http://arxiv.org/abs/2611.31516)|null|
 |**2026-11-23**|**Screening for nonrigidity in structure from motion using projected reprojection residuals**|Íñigo Cirauqui-Viloria et.al.|[2611.30769](http://arxiv.org/abs/2611.30769)|null|
 |**2026-11-19**|**SGAR: Feed-Forward 3D Reconstruction via Sparse Geometry-Guided Attention**|Aoxiang Fan et.al.|[2611.26493](http://arxiv.org/abs/2611.26493)|null|
 |**2026-11-19**|**Reference-Twist-Based Velocity-Domain Spatiotemporal Calibration for mmWave Radar, Event Camera, and IMU**|Zhenghao Zou et.al.|[2611.26083](http://arxiv.org/abs/2611.26083)|null|
@@ -2640,6 +2648,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-24**|**CREDIT: Compositional Reliability Learning for Noisy Composed Image Retrieval**|Tiancai Zhou et.al.|[2611.32310](http://arxiv.org/abs/2611.32310)|null|
+|**2026-11-24**|**RELAY: Learning Compatible Representations One Encoder at a Time**|Yu Wang et.al.|[2611.31882](http://arxiv.org/abs/2611.31882)|null|
+|**2026-11-23**|**A dataset of clinically similar image pairs from citation-linked case reports for medical image retrieval**|Guy Shmueli et.al.|[2611.31465](http://arxiv.org/abs/2611.31465)|null|
 |**2026-11-23**|**RigidAnchor: Cross-View Geo-Localization for UAV via Iterative Planar Rigid Alignment**|Bo Wang et.al.|[2611.30278](http://arxiv.org/abs/2611.30278)|null|
 |**2026-11-22**|**STAGE: Structured Test-Time Adaptation with Global Entropic Soft-coupling for Cross-Subject Brain-to-Image Retrieval**|Yihang Zou et.al.|[2611.29538](http://arxiv.org/abs/2611.29538)|null|
 |**2026-11-22**|**GraphSeer: Multimodal Knowledge Graph Relational Image Retrieval with MLLMs**|Linyu Li et.al.|[2611.29470](http://arxiv.org/abs/2611.29470)|null|
@@ -5740,7 +5751,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-11-20**|**HumanoidPose: Monocular 3D Pose Estimation for Humanoid Robots**|Jinlin Gan et.al.|[2611.27181](http://arxiv.org/abs/2611.27181)|null|
+|**2026-11-24**|**HumanoidPose: Monocular 3D Pose Estimation for Humanoid Robots**|Jinlin Gan et.al.|[2611.27181](http://arxiv.org/abs/2611.27181)|null|
 |**2026-11-06**|**Direct Regression and Geometric Recovery for Event-based Spacecraft Pose Estimation**|Pruthvi Nandan Janga et.al.|[2611.09717](http://arxiv.org/abs/2611.09717)|null|
 |**2026-11-05**|**GEKey: Learning Geodesic Eccentric 3D Keypoints via Self-Supervision**|Pierre Onghena et.al.|[2611.07677](http://arxiv.org/abs/2611.07677)|null|
 |**2026-10-29**|**InfantNet: A Large Scale Dataset for Infant Body Pose and Shape Estimation**|Zhipeng Hui et.al.|[2610.40467](http://arxiv.org/abs/2610.40467)|null|
@@ -6317,6 +6328,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-24**|**Learning Agent States for Latent Action Modeling**|Shaoan Xie et.al.|[2611.32017](http://arxiv.org/abs/2611.32017)|null|
 |**2026-11-22**|**Separating Action Allocation from Image Matching in Visual Token Routing**|Chenxi Wang et.al.|[2611.29477](http://arxiv.org/abs/2611.29477)|null|
 |**2026-11-20**|**Which Dwarf Is This? Doppeldwarf-306 and Near-Identical Instance Retrieval**|Turhan Can Kargin et.al.|[2611.27490](http://arxiv.org/abs/2611.27490)|null|
 |**2026-11-19**|**LBW-NPS: A Local Band-Weighted Noise Power Spectrum Loss for Texture-Preserving Low-Dose CT Denoising**|Fatma Elif Yalçındağ et.al.|[2611.25548](http://arxiv.org/abs/2611.25548)|null|
@@ -7747,7 +7759,7 @@ layout: default
 |**2026-11-19**|**FirstCross: Convex Single-Photon 3D Reconstruction from Sparse Views**|Chi-Wei Lee et.al.|[2611.26321](http://arxiv.org/abs/2611.26321)|null|
 |**2026-11-19**|**AGSR: Aperture-Guided Super-Resolution for Gaussian Splatting**|Ayman Alkhateeb et.al.|[2611.25934](http://arxiv.org/abs/2611.25934)|null|
 |**2026-11-19**|**Multi-View Relighting with Mergeable Radiance Fields**|Yinan Wang et.al.|[2611.25523](http://arxiv.org/abs/2611.25523)|null|
-|**2026-11-17**|**NIRJALA: Draining the Sea out of Gaussian Splatting with Three-Path Optics and Reversible Physics**|Latchan Chhetri et.al.|[2611.23450](http://arxiv.org/abs/2611.23450)|null|
+|**2026-11-24**|**NIRJALA: Draining the Sea out of Gaussian Splatting with Three-Path Optics and Reversible Physics**|Latchan Chhetri et.al.|[2611.23450](http://arxiv.org/abs/2611.23450)|null|
 |**2026-11-16**|**QuantileGS: Quantile-Based Conformal Bounds on RGB Rendering Errors for Novel View Synthesis with 3D Gaussian Splatting**|Haiyang Xu et.al.|[2611.21253](http://arxiv.org/abs/2611.21253)|null|
 |**2026-11-06**|**TopSDF: Topological Signed Distance Field for High-Quality Triangle Mesh Extraction from 3D Gaussian Splatting**|Khoi Do et.al.|[2611.18708](http://arxiv.org/abs/2611.18708)|null|
 |**2026-11-11**|**MatrixSplat: Matrix-Parallel and Feature-Scalable 3D Gaussian Splatting Rendering on GPUs**|Yangming Zhang et.al.|[2611.15153](http://arxiv.org/abs/2611.15153)|null|
